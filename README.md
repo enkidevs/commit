@@ -1,4 +1,4 @@
-#Progress
+#Commit
 
 This repo logs the progress of the Enki community’s personal learning habit. Track your progress with a commit for each workout. Commit to a daily habit and learn something new each day.
 
