@@ -5,5 +5,5 @@ This repo logs the progress of the Enki community’s personal learning habit. T
 If you’d like to try Enki, request an invitation to our beta here: https://enki.com
 
 Download the Enki app: 
- - iOS: (https://enki.com/ios)[https://enki.com/ios]
- - Android: (https://enki.com/android)[https://enki.com/android]
+ - iOS: https://enki.com/ios
+ - Android: https://enki.com/android
