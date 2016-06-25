@@ -1,0 +1,5 @@
+Writing comments in CSS
+Use pseudo-classes to describe a special state of an element 
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Use `:not()` to apply/unapply styles 
+Debug with `*` selector
