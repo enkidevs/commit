@@ -1,0 +1,2 @@
+Interactive staging
+Interactively stage patches
