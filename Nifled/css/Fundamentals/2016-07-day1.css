@@ -1,0 +1,5 @@
+`currentColor` improves code reusability 
+Use pseudo-classes to describe a special state of an element 
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Styling elements using `::before` and `::after`
+`:required` and `:optional` pseudo classes
