@@ -1,0 +1,5 @@
+Defaults values apply only to `undefined` (and not to `null`)
+Typed Arrays
+ES6 Arrow Functions
+Binary and octal notation in ES6
+`WeakMap` in ES6
