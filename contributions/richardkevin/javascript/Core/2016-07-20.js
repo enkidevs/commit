@@ -1,0 +1,1 @@
+Getting the *real* dimensions of an image
