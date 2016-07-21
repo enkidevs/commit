@@ -1,0 +1,1 @@
+Get hardware stack details with `lspci`
