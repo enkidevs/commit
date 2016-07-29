@@ -1,0 +1,5 @@
+Using tags for version control
+What is stored in a commit?
+Make your log output pretty
+Intent to add
+Ignore files in git
