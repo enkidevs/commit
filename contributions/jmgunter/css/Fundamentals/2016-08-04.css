@@ -1,0 +1,5 @@
+Block element characteristics
+Use `box-sizing` to define an element's `width` and `height` properties 
+`calc()` for simpler maths
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Combining selectors
