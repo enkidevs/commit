@@ -1,0 +1,5 @@
+Prototypical Inheritance
+Constructor Functions
+Getter and setter methods
+Linking objects
+Shadowing Properties
