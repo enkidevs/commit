@@ -1,0 +1,5 @@
+Position elements with  `position: sticky`
+Vertical percentages are relative to container width, not height
+Use `z-index` to specify the stack order of elements that overlap
+Difference between `display: none` and `visibility: hidden`
+Equal width table cells
