@@ -13,16 +13,16 @@ The top 10 committers are shown here each week.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[saka](https://github.com/saka)|8|
-|1=|[aarongarciah](https://github.com/aarongarciah)|8|
 |1=|[sylcha](https://github.com/sylcha)|8|
-|1=|[gszabo](https://github.com/gszabo)|8|
 |1=|[PotHix](https://github.com/PotHix)|8|
-|6=|[kensportsfan](https://github.com/kensportsfan)|7|
-|6=|[asaBee](https://github.com/asaBee)|7|
-|6=|[sebnilsson](https://github.com/sebnilsson)|7|
-|6=|[zpnk](https://github.com/zpnk)|7|
+|1=|[aarongarciah](https://github.com/aarongarciah)|8|
+|1=|[gszabo](https://github.com/gszabo)|8|
+|1=|[saka](https://github.com/saka)|8|
+|6=|[ozymandias](https://github.com/ozymandias)|7|
 |6=|[IronBeagle](https://github.com/IronBeagle)|7|
+|6=|[ap_coder](https://github.com/ap_coder)|7|
+|6=|[zpnk](https://github.com/zpnk)|7|
+|6=|[asaBee](https://github.com/asaBee)|7|
 
 #FAQ
 
