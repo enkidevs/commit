@@ -9,20 +9,20 @@ Download the Enki app:
  - Android: https://enki.com/android
 
 #Leaderboard
-
+The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[PotHix](https://github.com/PotHix)|22|
-|1=|[sebnilsson](https://github.com/sebnilsson)|22|
 |1=|[TotKindGott](https://github.com/TotKindGott)|22|
 |1=|[asaBee](https://github.com/asaBee)|22|
+|1=|[PotHix](https://github.com/PotHix)|22|
+|1=|[sebnilsson](https://github.com/sebnilsson)|22|
 |5=|[kensportsfan](https://github.com/kensportsfan)|21|
 |5=|[sylcha](https://github.com/sylcha)|21|
 |5=|[zpnk](https://github.com/zpnk)|21|
 |8=|[saka](https://github.com/saka)|20|
-|8=|[ozymandias](https://github.com/ozymandias)|20|
 |8=|[IronBeagle](https://github.com/IronBeagle)|20|
+|10=|[shannon189](https://github.com/shannon189)|19|
 
 #FAQ
 
