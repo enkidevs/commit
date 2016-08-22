@@ -8,6 +8,22 @@ Download the Enki app:
  - iOS: https://enki.com/ios
  - Android: https://enki.com/android
 
+#Leaderboard
+The top 10 committers this month are shown here.
+
+| Rank | User | Commits |
+|------|------|---------|
+|1=|[sebnilsson](https://github.com/sebnilsson)|22|
+|1=|[TotKindGott](https://github.com/TotKindGott)|22|
+|1=|[PotHix](https://github.com/PotHix)|22|
+|4=|[kensportsfan](https://github.com/kensportsfan)|21|
+|4=|[zpnk](https://github.com/zpnk)|21|
+|4=|[sylcha](https://github.com/sylcha)|21|
+|4=|[asaBee](https://github.com/asaBee)|21|
+|8|[IronBeagle](https://github.com/IronBeagle)|20|
+|9=|[shannon189](https://github.com/shannon189)|19|
+|9=|[saka](https://github.com/saka)|19|
+
 #FAQ
 
 **How come my commits are not connected to my Github account?**
