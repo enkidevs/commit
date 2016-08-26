@@ -1,0 +1,5 @@
+Use pseudo-classes to describe a special state of an element 
+Focus pseudo-class to highlight form input
+Use `:not()` to apply/unapply styles 
+Styling elements using `::before` and `::after`
+Debug with `*` selector
