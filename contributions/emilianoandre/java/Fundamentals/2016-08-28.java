@@ -1,0 +1,1 @@
+Do not return *references* to private *mutable* class members
