@@ -1,0 +1,5 @@
+Make text unselectable
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Focus pseudo-class to highlight form input
+Use attribute selectors with empty links
+Debug with `*` selector
