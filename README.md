@@ -18,13 +18,29 @@ The top 10 committers this month are shown here.
 |2=|[sylcha](https://github.com/sylcha)|29|
 |2=|[TotKindGott](https://github.com/TotKindGott)|29|
 |2=|[asaBee](https://github.com/asaBee)|29|
+|6=|[Saka7](https://github.com/Saka7)|28|
+|6=|[noamhofshi](https://github.com/noamhofshi)|28|
+|8|[manitua](https://github.com/manitua)|27|
+|9|[zpnk](https://github.com/zpnk)|26|
+|10=|[ya5u5hi](https://github.com/ya5u5hi)|25|
+
+#FAQ
+The top 10 committers this month are shown here.
+
+| Rank | User | Commits |
+|------|------|---------|
+|1|[PotHix](https://github.com/PotHix)|30|
+|2=|[sebnilsson](https://github.com/sebnilsson)|29|
+|2=|[sylcha](https://github.com/sylcha)|29|
+|2=|[TotKindGott](https://github.com/TotKindGott)|29|
+|2=|[asaBee](https://github.com/asaBee)|29|
 |6=|[noamhofshi](https://github.com/noamhofshi)|28|
 |6=|[Saka7](https://github.com/Saka7)|28|
 |8|[manitua](https://github.com/manitua)|27|
 |9|[zpnk](https://github.com/zpnk)|26|
 |10=|[abisz](https://github.com/abisz)|25|
 
-#FAQ
+
 The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
