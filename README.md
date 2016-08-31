@@ -13,6 +13,22 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
+|1|[PotHix](https://github.com/PotHix)|30|
+|2=|[sylcha](https://github.com/sylcha)|29|
+|2=|[sebnilsson](https://github.com/sebnilsson)|29|
+|2=|[TotKindGott](https://github.com/TotKindGott)|29|
+|2=|[asaBee](https://github.com/asaBee)|29|
+|6=|[Saka7](https://github.com/Saka7)|28|
+|6=|[noamhofshi](https://github.com/noamhofshi)|28|
+|8|[manitua](https://github.com/manitua)|27|
+|9|[zpnk](https://github.com/zpnk)|26|
+|10=|[abisz](https://github.com/abisz)|25|
+
+#FAQ
+The top 10 committers this month are shown here.
+
+| Rank | User | Commits |
+|------|------|---------|
 |1=|[sebnilsson](https://github.com/sebnilsson)|22|
 |1=|[TotKindGott](https://github.com/TotKindGott)|22|
 |1=|[PotHix](https://github.com/PotHix)|22|
@@ -24,7 +40,7 @@ The top 10 committers this month are shown here.
 |9=|[shannon189](https://github.com/shannon189)|19|
 |9=|[saka](https://github.com/saka)|19|
 
-#FAQ
+
 
 **How come my commits are not connected to my Github account?**
 
