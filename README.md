@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[PotHix](https://github.com/PotHix)|30|
-|2=|[sebnilsson](https://github.com/sebnilsson)|29|
-|2=|[sylcha](https://github.com/sylcha)|29|
-|2=|[TotKindGott](https://github.com/TotKindGott)|29|
-|2=|[asaBee](https://github.com/asaBee)|29|
-|6=|[Saka7](https://github.com/Saka7)|28|
-|6=|[noamhofshi](https://github.com/noamhofshi)|28|
-|8|[manitua](https://github.com/manitua)|27|
-|9|[zpnk](https://github.com/zpnk)|26|
-|10=|[ya5u5hi](https://github.com/ya5u5hi)|25|
+|1|[enkibot](https://github.com/enkibot)|6|
+|2|[djoomla](https://github.com/djoomla)|4|
+|3=|[youssoufCherif](https://github.com/youssoufCherif)|3|
+|3=|[DragonMage52](https://github.com/DragonMage52)|3|
+|3=|[lukem512](https://github.com/lukem512)|3|
+|3=|[troyvoy88](https://github.com/troyvoy88)|3|
+|3=|[psi1717](https://github.com/psi1717)|3|
+|3=|[CommunityMan](https://github.com/CommunityMan)|3|
+|3=|[ivannieto](https://github.com/ivannieto)|3|
+|3=|[harrisonmg](https://github.com/harrisonmg)|3|
 
 #FAQ
 
