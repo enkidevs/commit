@@ -13,15 +13,15 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[enkibot](https://github.com/enkibot)|6|
+|1|[enkibot](https://github.com/enkibot)|7|
 |2|[djoomla](https://github.com/djoomla)|4|
+|3=|[ivannieto](https://github.com/ivannieto)|3|
 |3=|[youssoufCherif](https://github.com/youssoufCherif)|3|
 |3=|[DragonMage52](https://github.com/DragonMage52)|3|
 |3=|[lukem512](https://github.com/lukem512)|3|
 |3=|[troyvoy88](https://github.com/troyvoy88)|3|
 |3=|[psi1717](https://github.com/psi1717)|3|
 |3=|[CommunityMan](https://github.com/CommunityMan)|3|
-|3=|[ivannieto](https://github.com/ivannieto)|3|
 |3=|[harrisonmg](https://github.com/harrisonmg)|3|
 
 #FAQ
