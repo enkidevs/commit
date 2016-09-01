@@ -1,0 +1,5 @@
+Change the style of borders using `border-style`
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Highlight input forms using `:focus` pseudo-class
+Add `line-height` to `body`
+Select items using negative `nth-child`
