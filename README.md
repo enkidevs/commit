@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[enkibot](https://github.com/enkibot)|8|
-|2|[djoomla](https://github.com/djoomla)|4|
-|3=|[andreastirpe](https://github.com/andreastirpe)|3|
-|3=|[DragonMage52](https://github.com/DragonMage52)|3|
-|3=|[whgoller](https://github.com/whgoller)|3|
-|3=|[troyvoy88](https://github.com/troyvoy88)|3|
-|3=|[psi1717](https://github.com/psi1717)|3|
-|3=|[CommunityMan](https://github.com/CommunityMan)|3|
-|3=|[ivannieto](https://github.com/ivannieto)|3|
-|3=|[harrisonmg](https://github.com/harrisonmg)|3|
+|1|[enkibot](https://github.com/enkibot)|9|
+|2=|[Galvaneyes](https://github.com/Galvaneyes)|4|
+|2=|[jamesthomasonjr](https://github.com/jamesthomasonjr)|4|
+|2=|[Krzysztof-Matusiewicz](https://github.com/Krzysztof-Matusiewicz)|4|
+|2=|[achasveachas](https://github.com/achasveachas)|4|
+|2=|[dantasse](https://github.com/dantasse)|4|
+|2=|[ecafyelims](https://github.com/ecafyelims)|4|
+|2=|[ruckysolis](https://github.com/ruckysolis)|4|
+|2=|[l0stfake7](https://github.com/l0stfake7)|4|
+|2=|[youssoufCherif](https://github.com/youssoufCherif)|4|
 
 #FAQ
 
