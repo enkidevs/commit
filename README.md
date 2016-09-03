@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[enkibot](https://github.com/enkibot)|11|
-|2=|[Krzysztof-Matusiewicz](https://github.com/Krzysztof-Matusiewicz)|4|
-|2=|[lukem512](https://github.com/lukem512)|4|
-|2=|[rmeardi](https://github.com/rmeardi)|4|
-|2=|[ruckysolis](https://github.com/ruckysolis)|4|
-|2=|[jamesthomasonjr](https://github.com/jamesthomasonjr)|4|
-|2=|[umutkorkmaz](https://github.com/umutkorkmaz)|4|
-|2=|[achasveachas](https://github.com/achasveachas)|4|
-|2=|[dantasse](https://github.com/dantasse)|4|
-|2=|[ecafyelims](https://github.com/ecafyelims)|4|
+|1|[enkibot](https://github.com/enkibot)|12|
+|2=|[lukem512](https://github.com/lukem512)|5|
+|2=|[f0o](https://github.com/f0o)|5|
+|2=|[psi1717](https://github.com/psi1717)|5|
+|2=|[Eduardogbg](https://github.com/Eduardogbg)|5|
+|2=|[adrielcafe](https://github.com/adrielcafe)|5|
+|2=|[pontneddfechan](https://github.com/pontneddfechan)|5|
+|2=|[tenaciousdee](https://github.com/tenaciousdee)|5|
+|2=|[klaudiosinani](https://github.com/klaudiosinani)|5|
+|2=|[mmednik](https://github.com/mmednik)|5|
 
 #FAQ
 
