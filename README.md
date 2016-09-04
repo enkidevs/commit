@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[enkibot](https://github.com/enkibot)|14|
-|2=|[adrielcafe](https://github.com/adrielcafe)|5|
-|2=|[tenaciousdee](https://github.com/tenaciousdee)|5|
-|2=|[f0o](https://github.com/f0o)|5|
-|2=|[psi1717](https://github.com/psi1717)|5|
-|2=|[Eduardogbg](https://github.com/Eduardogbg)|5|
-|2=|[lukem512](https://github.com/lukem512)|5|
-|2=|[pontneddfechan](https://github.com/pontneddfechan)|5|
-|2=|[savayg](https://github.com/savayg)|5|
-|2=|[klaudiosinani](https://github.com/klaudiosinani)|5|
+|1|[enkibot](https://github.com/enkibot)|15|
+|2=|[nelsonio](https://github.com/nelsonio)|6|
+|2=|[gravoo](https://github.com/gravoo)|6|
+|2=|[CycleOfTheAbsurd](https://github.com/CycleOfTheAbsurd)|6|
+|2=|[lukem512](https://github.com/lukem512)|6|
+|6=|[lorenzoi](https://github.com/lorenzoi)|5|
+|6=|[daniele](https://github.com/daniele)|5|
+|6=|[jvansan](https://github.com/jvansan)|5|
+|6=|[justingorham](https://github.com/justingorham)|5|
+|6=|[SympleKaos](https://github.com/SympleKaos)|5|
 
 #FAQ
 
