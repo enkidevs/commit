@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[enkibot](https://github.com/enkibot)|16|
+|1|[enkibot](https://github.com/enkibot)|17|
 |2=|[nelsonio](https://github.com/nelsonio)|6|
 |2=|[gravoo](https://github.com/gravoo)|6|
 |2=|[CycleOfTheAbsurd](https://github.com/CycleOfTheAbsurd)|6|
 |2=|[lukem512](https://github.com/lukem512)|6|
-|6=|[ThePsychicVictini](https://github.com/ThePsychicVictini)|5|
+|6=|[achasveachas](https://github.com/achasveachas)|5|
+|6=|[hermesespinola](https://github.com/hermesespinola)|5|
 |6=|[lorenzoi](https://github.com/lorenzoi)|5|
 |6=|[daniele](https://github.com/daniele)|5|
 |6=|[jvansan](https://github.com/jvansan)|5|
-|6=|[justingorham](https://github.com/justingorham)|5|
 
 #FAQ
 
