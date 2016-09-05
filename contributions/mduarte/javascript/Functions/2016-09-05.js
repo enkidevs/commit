@@ -1,0 +1,2 @@
+`.bind()` 
+IIFE pattern
