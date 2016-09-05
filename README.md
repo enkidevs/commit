@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[enkibot](https://github.com/enkibot)|18|
+|1|[enkibot](https://github.com/enkibot)|19|
 |2|[lukem512](https://github.com/lukem512)|8|
 |3=|[klaudiosinani](https://github.com/klaudiosinani)|7|
 |3=|[Narbin](https://github.com/Narbin)|7|
-|5=|[padawan4330](https://github.com/padawan4330)|6|
-|5=|[vhfmag](https://github.com/vhfmag)|6|
-|5=|[HappiSquirrel](https://github.com/HappiSquirrel)|6|
-|5=|[yarg0007](https://github.com/yarg0007)|6|
+|5=|[timvisee](https://github.com/timvisee)|6|
 |5=|[jjcarstens](https://github.com/jjcarstens)|6|
-|5=|[ecafyelims](https://github.com/ecafyelims)|6|
+|5=|[Senopratomo](https://github.com/Senopratomo)|6|
+|5=|[padawan4330](https://github.com/padawan4330)|6|
+|5=|[viplav](https://github.com/viplav)|6|
+|5=|[HappiSquirrel](https://github.com/HappiSquirrel)|6|
 
 #FAQ
 
