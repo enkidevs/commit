@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[enkibot](https://github.com/enkibot)|20|
-|2|[lukem512](https://github.com/lukem512)|8|
-|3=|[klaudiosinani](https://github.com/klaudiosinani)|7|
-|3=|[l0stfake7](https://github.com/l0stfake7)|7|
-|5=|[BK874](https://github.com/BK874)|6|
-|5=|[SympleKaos](https://github.com/SympleKaos)|6|
-|5=|[simPod](https://github.com/simPod)|6|
-|5=|[mrjulianchan](https://github.com/mrjulianchan)|6|
-|5=|[jjcarstens](https://github.com/jjcarstens)|6|
-|5=|[Senopratomo](https://github.com/Senopratomo)|6|
+|1=|[wladimirgramacho](https://github.com/wladimirgramacho)|7|
+|1=|[achasveachas](https://github.com/achasveachas)|7|
+|1=|[mmednik](https://github.com/mmednik)|7|
+|4=|[tommot348](https://github.com/tommot348)|6|
+|4=|[Faithful-Mind](https://github.com/Faithful-Mind)|6|
+|4=|[Kulbhushan18](https://github.com/Kulbhushan18)|6|
+|4=|[thomasthiebaud](https://github.com/thomasthiebaud)|6|
+|4=|[saeedjassani](https://github.com/saeedjassani)|6|
+|4=|[cchanal](https://github.com/cchanal)|6|
+|4=|[agreygeek](https://github.com/agreygeek)|6|
 
 #FAQ
 
