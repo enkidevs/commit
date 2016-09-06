@@ -16,13 +16,13 @@ The top 10 committers this month are shown here.
 |1=|[wladimirgramacho](https://github.com/wladimirgramacho)|7|
 |1=|[achasveachas](https://github.com/achasveachas)|7|
 |1=|[mmednik](https://github.com/mmednik)|7|
-|4=|[tommot348](https://github.com/tommot348)|6|
+|4=|[vlad.bezden](https://github.com/vlad.bezden)|6|
+|4=|[gogamwar](https://github.com/gogamwar)|6|
+|4=|[Senopratomo](https://github.com/Senopratomo)|6|
+|4=|[Alanbato](https://github.com/Alanbato)|6|
 |4=|[Faithful-Mind](https://github.com/Faithful-Mind)|6|
 |4=|[Kulbhushan18](https://github.com/Kulbhushan18)|6|
 |4=|[thomasthiebaud](https://github.com/thomasthiebaud)|6|
-|4=|[saeedjassani](https://github.com/saeedjassani)|6|
-|4=|[cchanal](https://github.com/cchanal)|6|
-|4=|[agreygeek](https://github.com/agreygeek)|6|
 
 #FAQ
 
