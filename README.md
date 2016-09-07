@@ -16,13 +16,13 @@ The top 10 committers this month are shown here.
 |1=|[p-janik](https://github.com/p-janik)|8|
 |1=|[mmednik](https://github.com/mmednik)|8|
 |1=|[AZRO](https://github.com/AZRO)|8|
-|4=|[blackecho](https://github.com/blackecho)|7|
-|4=|[tommy1994111](https://github.com/tommy1994111)|7|
-|4=|[gylmlxc918](https://github.com/gylmlxc918)|7|
-|4=|[Sawel](https://github.com/Sawel)|7|
-|4=|[agreygeek](https://github.com/agreygeek)|7|
-|4=|[ChromadicCoder](https://github.com/ChromadicCoder)|7|
-|4=|[arantespp](https://github.com/arantespp)|7|
+|4=|[bteres](https://github.com/bteres)|7|
+|4=|[viliusz](https://github.com/viliusz)|7|
+|4=|[mateusluizfb](https://github.com/mateusluizfb)|7|
+|4=|[Kenpoji](https://github.com/Kenpoji)|7|
+|4=|[martin-rifon](https://github.com/martin-rifon)|7|
+|4=|[torresomar](https://github.com/torresomar)|7|
+|4=|[Layo](https://github.com/Layo)|7|
 
 #FAQ
 
