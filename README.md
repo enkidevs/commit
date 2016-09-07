@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[wladimirgramacho](https://github.com/wladimirgramacho)|7|
-|1=|[achasveachas](https://github.com/achasveachas)|7|
-|1=|[mmednik](https://github.com/mmednik)|7|
-|4=|[vlad.bezden](https://github.com/vlad.bezden)|6|
-|4=|[gogamwar](https://github.com/gogamwar)|6|
-|4=|[Senopratomo](https://github.com/Senopratomo)|6|
-|4=|[Alanbato](https://github.com/Alanbato)|6|
-|4=|[Faithful-Mind](https://github.com/Faithful-Mind)|6|
-|4=|[Kulbhushan18](https://github.com/Kulbhushan18)|6|
-|4=|[thomasthiebaud](https://github.com/thomasthiebaud)|6|
+|1=|[p-janik](https://github.com/p-janik)|8|
+|1=|[mmednik](https://github.com/mmednik)|8|
+|1=|[AZRO](https://github.com/AZRO)|8|
+|4=|[bteres](https://github.com/bteres)|7|
+|4=|[viliusz](https://github.com/viliusz)|7|
+|4=|[mateusluizfb](https://github.com/mateusluizfb)|7|
+|4=|[torresomar](https://github.com/torresomar)|7|
+|4=|[Layo](https://github.com/Layo)|7|
+|4=|[Kenpoji](https://github.com/Kenpoji)|7|
+|4=|[maiatoday](https://github.com/maiatoday)|7|
 
 #FAQ
 
