@@ -1,0 +1,1 @@
+IIFE pattern
