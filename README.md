@@ -16,13 +16,13 @@ The top 10 committers this month are shown here.
 |1=|[wladimirgramacho](https://github.com/wladimirgramacho)|9|
 |1=|[AZRO](https://github.com/AZRO)|9|
 |1=|[p-janik](https://github.com/p-janik)|9|
-|4=|[colinular](https://github.com/colinular)|8|
+|4=|[Jinxter](https://github.com/Jinxter)|8|
+|4=|[SympleKaos](https://github.com/SympleKaos)|8|
 |4=|[marvin89](https://github.com/marvin89)|8|
 |4=|[padawan4330](https://github.com/padawan4330)|8|
 |4=|[l0stfake7](https://github.com/l0stfake7)|8|
-|4=|[saeedjassani](https://github.com/saeedjassani)|8|
+|4=|[tommot348](https://github.com/tommot348)|8|
 |4=|[bbohac](https://github.com/bbohac)|8|
-|4=|[hmvandermeulen](https://github.com/hmvandermeulen)|8|
 
 #FAQ
 
