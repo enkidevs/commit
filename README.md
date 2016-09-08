@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[p-janik](https://github.com/p-janik)|8|
-|1=|[mmednik](https://github.com/mmednik)|8|
-|1=|[AZRO](https://github.com/AZRO)|8|
-|4=|[bteres](https://github.com/bteres)|7|
-|4=|[viliusz](https://github.com/viliusz)|7|
-|4=|[mateusluizfb](https://github.com/mateusluizfb)|7|
-|4=|[Kenpoji](https://github.com/Kenpoji)|7|
-|4=|[martin-rifon](https://github.com/martin-rifon)|7|
-|4=|[torresomar](https://github.com/torresomar)|7|
-|4=|[Layo](https://github.com/Layo)|7|
+|1=|[wladimirgramacho](https://github.com/wladimirgramacho)|9|
+|1=|[p-janik](https://github.com/p-janik)|9|
+|1=|[AZRO](https://github.com/AZRO)|9|
+|4=|[jfftck](https://github.com/jfftck)|8|
+|4=|[marvin89](https://github.com/marvin89)|8|
+|4=|[padawan4330](https://github.com/padawan4330)|8|
+|4=|[l0stfake7](https://github.com/l0stfake7)|8|
+|4=|[maiatoday](https://github.com/maiatoday)|8|
+|4=|[bbohac](https://github.com/bbohac)|8|
+|4=|[hmvandermeulen](https://github.com/hmvandermeulen)|8|
 
 #FAQ
 
