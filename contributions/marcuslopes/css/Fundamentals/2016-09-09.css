@@ -1,0 +1,5 @@
+Block element characteristics
+Use `border-radius` to style rounded corners of an element
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Select items using negative `nth-child`
+`:required` and `:optional` pseudo classes
