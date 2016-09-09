@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
+|1=|[Siddhantarath](https://github.com/Siddhantarath)|9|
+|1=|[groundhogdad](https://github.com/groundhogdad)|9|
 |1=|[wladimirgramacho](https://github.com/wladimirgramacho)|9|
+|1=|[viliusz](https://github.com/viliusz)|9|
 |1=|[AZRO](https://github.com/AZRO)|9|
-|1=|[p-janik](https://github.com/p-janik)|9|
-|4=|[Jinxter](https://github.com/Jinxter)|8|
-|4=|[SympleKaos](https://github.com/SympleKaos)|8|
-|4=|[marvin89](https://github.com/marvin89)|8|
-|4=|[padawan4330](https://github.com/padawan4330)|8|
-|4=|[l0stfake7](https://github.com/l0stfake7)|8|
-|4=|[tommot348](https://github.com/tommot348)|8|
-|4=|[bbohac](https://github.com/bbohac)|8|
+|1=|[psi1717](https://github.com/psi1717)|9|
+|1=|[jfftck](https://github.com/jfftck)|9|
+|1=|[mmednik](https://github.com/mmednik)|9|
+|1=|[mfrazie2](https://github.com/mfrazie2)|9|
+|1=|[jvansan](https://github.com/jvansan)|9|
 
 #FAQ
 
