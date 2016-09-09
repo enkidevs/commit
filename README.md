@@ -13,14 +13,14 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[Zoli5](https://github.com/Zoli5)|9|
-|1=|[tigerwolf17](https://github.com/tigerwolf17)|9|
+|1=|[manitua](https://github.com/manitua)|9|
+|1=|[imdyske](https://github.com/imdyske)|9|
+|1=|[AZRO](https://github.com/AZRO)|9|
 |1=|[jvansan](https://github.com/jvansan)|9|
 |1=|[SympleKaos](https://github.com/SympleKaos)|9|
 |1=|[portokallidis](https://github.com/portokallidis)|9|
 |1=|[bteres](https://github.com/bteres)|9|
 |1=|[exoduz](https://github.com/exoduz)|9|
-|1=|[AZRO](https://github.com/AZRO)|9|
 |1=|[uvafan91](https://github.com/uvafan91)|9|
 |1=|[Brosper](https://github.com/Brosper)|9|
 
