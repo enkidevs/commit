@@ -1,0 +1,5 @@
+`inline` element characteristics
+Use `background-repeat` to repeat a background image horizontally or vertically
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Use `:not()` to apply/unapply styles 
+`:required` and `:optional` pseudo classes
