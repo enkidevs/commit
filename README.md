@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[remipou](https://github.com/remipou)|10|
-|1=|[Jinxter](https://github.com/Jinxter)|10|
+|1=|[PaulNoth](https://github.com/PaulNoth)|10|
+|1=|[sylcha](https://github.com/sylcha)|10|
+|1=|[psi1717](https://github.com/psi1717)|10|
+|1=|[viliusz](https://github.com/viliusz)|10|
+|1=|[Brosper](https://github.com/Brosper)|10|
+|1=|[achasveachas](https://github.com/achasveachas)|10|
 |1=|[exoduz](https://github.com/exoduz)|10|
 |1=|[BooM](https://github.com/BooM)|10|
-|1=|[yarg0007](https://github.com/yarg0007)|10|
-|1=|[GabrielBernard](https://github.com/GabrielBernard)|10|
-|1=|[mduarte](https://github.com/mduarte)|10|
-|1=|[svartr](https://github.com/svartr)|10|
-|1=|[padawan4330](https://github.com/padawan4330)|10|
-|1=|[gkhnoisgtht](https://github.com/gkhnoisgtht)|10|
+|1=|[liufeng5460](https://github.com/liufeng5460)|10|
+|1=|[spyder11](https://github.com/spyder11)|10|
 
 #FAQ
 
