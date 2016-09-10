@@ -13,8 +13,9 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[manitua](https://github.com/manitua)|10|
-|1=|[endimion](https://github.com/endimion)|10|
+|1=|[remipou](https://github.com/remipou)|10|
+|1=|[Jinxter](https://github.com/Jinxter)|10|
+|1=|[exoduz](https://github.com/exoduz)|10|
 |1=|[BooM](https://github.com/BooM)|10|
 |1=|[yarg0007](https://github.com/yarg0007)|10|
 |1=|[GabrielBernard](https://github.com/GabrielBernard)|10|
@@ -22,7 +23,6 @@ The top 10 committers this month are shown here.
 |1=|[svartr](https://github.com/svartr)|10|
 |1=|[padawan4330](https://github.com/padawan4330)|10|
 |1=|[gkhnoisgtht](https://github.com/gkhnoisgtht)|10|
-|1=|[dobermiller](https://github.com/dobermiller)|10|
 
 #FAQ
 
