@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[PaulNoth](https://github.com/PaulNoth)|10|
-|1=|[sylcha](https://github.com/sylcha)|10|
-|1=|[psi1717](https://github.com/psi1717)|10|
-|1=|[viliusz](https://github.com/viliusz)|10|
-|1=|[Brosper](https://github.com/Brosper)|10|
-|1=|[achasveachas](https://github.com/achasveachas)|10|
-|1=|[exoduz](https://github.com/exoduz)|10|
-|1=|[BooM](https://github.com/BooM)|10|
-|1=|[liufeng5460](https://github.com/liufeng5460)|10|
-|1=|[spyder11](https://github.com/spyder11)|10|
+|1=|[martin-rifon](https://github.com/martin-rifon)|12|
+|1=|[mmednik](https://github.com/mmednik)|12|
+|3=|[Jinxter](https://github.com/Jinxter)|11|
+|3=|[pazer001](https://github.com/pazer001)|11|
+|3=|[jacobvarner](https://github.com/jacobvarner)|11|
+|3=|[mjnitz02](https://github.com/mjnitz02)|11|
+|3=|[Alanbato](https://github.com/Alanbato)|11|
+|3=|[endimion](https://github.com/endimion)|11|
+|3=|[GabrielBernard](https://github.com/GabrielBernard)|11|
+|3=|[BK874](https://github.com/BK874)|11|
 
 #FAQ
 
