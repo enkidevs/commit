@@ -1,0 +1,5 @@
+CSS Specificity
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Use `:not()` to apply/unapply styles 
+Debug with `*` selector
+Multiple borders with pseudo elements
