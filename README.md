@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[martin-rifon](https://github.com/martin-rifon)|12|
-|1=|[mmednik](https://github.com/mmednik)|12|
-|3=|[Prominence](https://github.com/Prominence)|11|
-|3=|[EliothMonroy](https://github.com/EliothMonroy)|11|
-|3=|[aeolyus](https://github.com/aeolyus)|11|
-|3=|[asclines](https://github.com/asclines)|11|
-|3=|[tigerwolf17](https://github.com/tigerwolf17)|11|
-|3=|[liufeng5460](https://github.com/liufeng5460)|11|
-|3=|[NemanjaCakic](https://github.com/NemanjaCakic)|11|
-|3=|[achasveachas](https://github.com/achasveachas)|11|
+|1=|[cordac](https://github.com/cordac)|12|
+|1=|[Prominence](https://github.com/Prominence)|12|
+|1=|[Faithful-Mind](https://github.com/Faithful-Mind)|12|
+|1=|[jvansan](https://github.com/jvansan)|12|
+|1=|[jfftck](https://github.com/jfftck)|12|
+|1=|[viliusz](https://github.com/viliusz)|12|
+|1=|[arantespp](https://github.com/arantespp)|12|
+|1=|[p-janik](https://github.com/p-janik)|12|
+|1=|[xetra11](https://github.com/xetra11)|12|
+|1=|[achasveachas](https://github.com/achasveachas)|12|
 
 #FAQ
 
