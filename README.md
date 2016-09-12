@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[cordac](https://github.com/cordac)|12|
-|1=|[Prominence](https://github.com/Prominence)|12|
+|1=|[Jinxter](https://github.com/Jinxter)|12|
+|1=|[mmednik](https://github.com/mmednik)|12|
+|1=|[Saka7](https://github.com/Saka7)|12|
+|1=|[Kiyazasu](https://github.com/Kiyazasu)|12|
 |1=|[Faithful-Mind](https://github.com/Faithful-Mind)|12|
 |1=|[jvansan](https://github.com/jvansan)|12|
-|1=|[jfftck](https://github.com/jfftck)|12|
-|1=|[viliusz](https://github.com/viliusz)|12|
+|1=|[badbart](https://github.com/badbart)|12|
+|1=|[asparsh29kumar](https://github.com/asparsh29kumar)|12|
+|1=|[alphatroya](https://github.com/alphatroya)|12|
 |1=|[arantespp](https://github.com/arantespp)|12|
-|1=|[p-janik](https://github.com/p-janik)|12|
-|1=|[xetra11](https://github.com/xetra11)|12|
-|1=|[achasveachas](https://github.com/achasveachas)|12|
 
 #FAQ
 
