@@ -1,0 +1,4 @@
+Overcome line-ending issues
+Prune remote tracking references
+Untrack a directory/file without deleting it
+Delete all untracked files
