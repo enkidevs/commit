@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[akos0215](https://github.com/akos0215)|12|
-|1=|[achasveachas](https://github.com/achasveachas)|12|
-|1=|[jvansan](https://github.com/jvansan)|12|
-|1=|[arantespp](https://github.com/arantespp)|12|
-|1=|[p-janik](https://github.com/p-janik)|12|
-|1=|[xetra11](https://github.com/xetra11)|12|
-|1=|[TKlauenberg](https://github.com/TKlauenberg)|12|
-|1=|[colinular](https://github.com/colinular)|12|
-|1=|[games647](https://github.com/games647)|12|
-|1=|[corpulentcoffee](https://github.com/corpulentcoffee)|12|
+|1|[mmednik](https://github.com/mmednik)|14|
+|2=|[omgreel](https://github.com/omgreel)|13|
+|2=|[tiagoamaro](https://github.com/tiagoamaro)|13|
+|2=|[ChromadicCoder](https://github.com/ChromadicCoder)|13|
+|2=|[alphatroya](https://github.com/alphatroya)|13|
+|2=|[imdyske](https://github.com/imdyske)|13|
+|2=|[colinular](https://github.com/colinular)|13|
+|2=|[cordac](https://github.com/cordac)|13|
+|2=|[dantasse](https://github.com/dantasse)|13|
+|2=|[Saka7](https://github.com/Saka7)|13|
 
 #FAQ
 
