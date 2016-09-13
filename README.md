@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[mmednik](https://github.com/mmednik)|14|
-|2=|[svartr](https://github.com/svartr)|13|
+|2=|[guidobakkes](https://github.com/guidobakkes)|13|
+|2=|[xnedelx](https://github.com/xnedelx)|13|
 |2=|[dantasse](https://github.com/dantasse)|13|
 |2=|[Saka7](https://github.com/Saka7)|13|
 |2=|[Alanbato](https://github.com/Alanbato)|13|
 |2=|[SympleKaos](https://github.com/SympleKaos)|13|
 |2=|[CycleOfTheAbsurd](https://github.com/CycleOfTheAbsurd)|13|
-|2=|[uvafan91](https://github.com/uvafan91)|13|
-|2=|[arantespp](https://github.com/arantespp)|13|
-|2=|[agreygeek](https://github.com/agreygeek)|13|
+|2=|[bteres](https://github.com/bteres)|13|
+|2=|[sylcha](https://github.com/sylcha)|13|
 
 #FAQ
 
