@@ -1,0 +1,5 @@
+How to easily check browser compatibility of a feature
+Use `background-repeat` to repeat a background image horizontally or vertically
+Use pseudo-classes to describe a special state of an element 
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Styling elements using `::before` and `::after`
