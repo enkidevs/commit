@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[alexandrewavelet](https://github.com/alexandrewavelet)|14|
-|1=|[marvin89](https://github.com/marvin89)|14|
-|1=|[Kenish](https://github.com/Kenish)|14|
-|1=|[games647](https://github.com/games647)|14|
-|1=|[guidobakkes](https://github.com/guidobakkes)|14|
+|1=|[k3ypad](https://github.com/k3ypad)|14|
+|1=|[viliusz](https://github.com/viliusz)|14|
 |1=|[jvansan](https://github.com/jvansan)|14|
-|1=|[e7krgc](https://github.com/e7krgc)|14|
+|1=|[spyder11](https://github.com/spyder11)|14|
 |1=|[maiatoday](https://github.com/maiatoday)|14|
 |1=|[cchanal](https://github.com/cchanal)|14|
-|1=|[p-janik](https://github.com/p-janik)|14|
+|1=|[dantasse](https://github.com/dantasse)|14|
+|1=|[Sawel](https://github.com/Sawel)|14|
+|1=|[mrewers](https://github.com/mrewers)|14|
+|1=|[agreygeek](https://github.com/agreygeek)|14|
 
 #FAQ
 
