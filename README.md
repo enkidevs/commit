@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[mmednik](https://github.com/mmednik)|14|
-|2=|[guidobakkes](https://github.com/guidobakkes)|13|
-|2=|[xnedelx](https://github.com/xnedelx)|13|
-|2=|[dantasse](https://github.com/dantasse)|13|
-|2=|[Saka7](https://github.com/Saka7)|13|
-|2=|[Alanbato](https://github.com/Alanbato)|13|
-|2=|[SympleKaos](https://github.com/SympleKaos)|13|
-|2=|[CycleOfTheAbsurd](https://github.com/CycleOfTheAbsurd)|13|
-|2=|[bteres](https://github.com/bteres)|13|
-|2=|[sylcha](https://github.com/sylcha)|13|
+|1=|[alexandrewavelet](https://github.com/alexandrewavelet)|14|
+|1=|[marvin89](https://github.com/marvin89)|14|
+|1=|[Kenish](https://github.com/Kenish)|14|
+|1=|[games647](https://github.com/games647)|14|
+|1=|[guidobakkes](https://github.com/guidobakkes)|14|
+|1=|[jvansan](https://github.com/jvansan)|14|
+|1=|[e7krgc](https://github.com/e7krgc)|14|
+|1=|[maiatoday](https://github.com/maiatoday)|14|
+|1=|[cchanal](https://github.com/cchanal)|14|
+|1=|[p-janik](https://github.com/p-janik)|14|
 
 #FAQ
 
