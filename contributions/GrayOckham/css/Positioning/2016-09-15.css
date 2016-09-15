@@ -1,0 +1,5 @@
+Horizontal centering fluid blocks
+Vertical percentages are relative to container width, not height
+Use `float` to allow an element to be placed to the left or right of the container
+Controlling cellpadding and cellspacing in CSS
+Inherit `box-sizing`
