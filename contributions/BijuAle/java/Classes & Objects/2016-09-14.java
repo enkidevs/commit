@@ -1,0 +1,1 @@
+How and when to use `WeakHashMap` class
