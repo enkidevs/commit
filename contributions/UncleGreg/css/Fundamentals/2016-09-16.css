@@ -1,0 +1,5 @@
+`vh` and `vw`, `vmin` and `vmax`
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Use `:not()` to apply/unapply styles 
+Styling elements using `::before` and `::after`
+`:required` and `:optional` pseudo classes
