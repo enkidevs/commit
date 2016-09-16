@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[k3ypad](https://github.com/k3ypad)|14|
-|1=|[viliusz](https://github.com/viliusz)|14|
-|1=|[jvansan](https://github.com/jvansan)|14|
-|1=|[spyder11](https://github.com/spyder11)|14|
-|1=|[maiatoday](https://github.com/maiatoday)|14|
-|1=|[cchanal](https://github.com/cchanal)|14|
-|1=|[dantasse](https://github.com/dantasse)|14|
-|1=|[Sawel](https://github.com/Sawel)|14|
-|1=|[mrewers](https://github.com/mrewers)|14|
-|1=|[agreygeek](https://github.com/agreygeek)|14|
+|1|[mmednik](https://github.com/mmednik)|17|
+|2=|[jacobvarner](https://github.com/jacobvarner)|16|
+|2=|[bteres](https://github.com/bteres)|16|
+|2=|[agreygeek](https://github.com/agreygeek)|16|
+|2=|[colinular](https://github.com/colinular)|16|
+|2=|[suicideSnoman](https://github.com/suicideSnoman)|16|
+|2=|[cchanal](https://github.com/cchanal)|16|
+|2=|[Zanex](https://github.com/Zanex)|16|
+|2=|[dantasse](https://github.com/dantasse)|16|
+|2=|[padawan4330](https://github.com/padawan4330)|16|
 
 #FAQ
 
