@@ -1,0 +1,5 @@
+Use `box-sizing` to define an element's `width` and `height` properties 
+Use `border-radius` to style rounded corners of an element
+Highlight input forms using `:focus` pseudo-class
+Select items using negative `nth-child`
+Styling elements using `::before` and `::after`
