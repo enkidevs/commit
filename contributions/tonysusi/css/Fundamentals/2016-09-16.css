@@ -1,0 +1,5 @@
+Use `box-sizing` to define an element's `width` and `height` properties 
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Highlight input forms using `:focus` pseudo-class
+Combining selectors
+`:required` and `:optional` pseudo classes
