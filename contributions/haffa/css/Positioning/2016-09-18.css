@@ -1,0 +1,5 @@
+Vertical centering fluid blocks
+Vertical percentages are relative to container width, not height
+Use `float` to allow an element to be placed to the left or right of the container
+Difference between `display: none` and `visibility: hidden`
+Avoid margin hacks with `flexbox`
