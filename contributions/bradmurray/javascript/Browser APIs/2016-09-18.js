@@ -1,0 +1,5 @@
+Permission API
+Notifications API
+Window.sessionStorage
+ProgressEvent
+Geolocation
