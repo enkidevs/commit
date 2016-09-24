@@ -1,0 +1,5 @@
+`currentColor` improves code reusability 
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Use `:not()` to apply/unapply styles 
+Autohiding scrollbars for **IE**
+Multiple borders with pseudo elements
