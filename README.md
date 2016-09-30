@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[mmednik](https://github.com/mmednik)|17|
-|2=|[jacobvarner](https://github.com/jacobvarner)|16|
-|2=|[bteres](https://github.com/bteres)|16|
-|2=|[agreygeek](https://github.com/agreygeek)|16|
-|2=|[colinular](https://github.com/colinular)|16|
-|2=|[suicideSnoman](https://github.com/suicideSnoman)|16|
-|2=|[cchanal](https://github.com/cchanal)|16|
-|2=|[Zanex](https://github.com/Zanex)|16|
-|2=|[dantasse](https://github.com/dantasse)|16|
-|2=|[padawan4330](https://github.com/padawan4330)|16|
+|1=|[martin-rifon](https://github.com/martin-rifon)|30|
+|1=|[spyder11](https://github.com/spyder11)|30|
+|1=|[tomwmarshall](https://github.com/tomwmarshall)|30|
+|4=|[es-moll](https://github.com/es-moll)|29|
+|4=|[Saka7](https://github.com/Saka7)|29|
+|4=|[saeedjassani](https://github.com/saeedjassani)|29|
+|4=|[yarg0007](https://github.com/yarg0007)|29|
+|4=|[thomasthiebaud](https://github.com/thomasthiebaud)|29|
+|4=|[corpulentcoffee](https://github.com/corpulentcoffee)|29|
+|4=|[liufeng5460](https://github.com/liufeng5460)|29|
 
 #FAQ
 
