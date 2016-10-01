@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[lukem512](https://github.com/lukem512)|2|
+|2=|[ndragon798](https://github.com/ndragon798)|1|
+|2=|[dduenhas](https://github.com/dduenhas)|1|
+|2=|[FFeliziani](https://github.com/FFeliziani)|1|
+|2=|[osiu97](https://github.com/osiu97)|1|
+|2=|[yarg0007](https://github.com/yarg0007)|1|
+|2=|[slechte](https://github.com/slechte)|1|
+|2=|[oso0521](https://github.com/oso0521)|1|
 |2=|[GreyTK](https://github.com/GreyTK)|1|
-|2=|[artexercise](https://github.com/artexercise)|1|
-|2=|[MosanZH](https://github.com/MosanZH)|1|
-|2=|[projectw0lf](https://github.com/projectw0lf)|1|
-|2=|[pasculorente](https://github.com/pasculorente)|1|
-|2=|[WagicalGale](https://github.com/WagicalGale)|1|
-|2=|[kcmartin](https://github.com/kcmartin)|1|
-|2=|[hustlahusky](https://github.com/hustlahusky)|1|
-|2=|[adgon92](https://github.com/adgon92)|1|
+|2=|[iamraviteja](https://github.com/iamraviteja)|1|
 
 #FAQ
 
