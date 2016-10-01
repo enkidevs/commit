@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[martin-rifon](https://github.com/martin-rifon)|30|
-|1=|[spyder11](https://github.com/spyder11)|30|
-|1=|[tomwmarshall](https://github.com/tomwmarshall)|30|
-|4=|[es-moll](https://github.com/es-moll)|29|
-|4=|[Saka7](https://github.com/Saka7)|29|
-|4=|[saeedjassani](https://github.com/saeedjassani)|29|
-|4=|[yarg0007](https://github.com/yarg0007)|29|
-|4=|[thomasthiebaud](https://github.com/thomasthiebaud)|29|
-|4=|[corpulentcoffee](https://github.com/corpulentcoffee)|29|
-|4=|[liufeng5460](https://github.com/liufeng5460)|29|
+|1|[lukem512](https://github.com/lukem512)|2|
+|2=|[MosanZH](https://github.com/MosanZH)|1|
+|2=|[pasculorente](https://github.com/pasculorente)|1|
+|2=|[WagicalGale](https://github.com/WagicalGale)|1|
+|2=|[kcmartin](https://github.com/kcmartin)|1|
+|2=|[hustlahusky](https://github.com/hustlahusky)|1|
+|2=|[adgon92](https://github.com/adgon92)|1|
+|2=|[Yvanor](https://github.com/Yvanor)|1|
+|2=|[cyber-creeper](https://github.com/cyber-creeper)|1|
+|2=|[patrickk93](https://github.com/patrickk93)|1|
 
 #FAQ
 
