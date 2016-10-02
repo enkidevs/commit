@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[molnarjani](https://github.com/molnarjani)|3|
-|2=|[GabrielBernard](https://github.com/GabrielBernard)|2|
+|2=|[Aniroel](https://github.com/Aniroel)|2|
+|2=|[aschiopu](https://github.com/aschiopu)|2|
 |2=|[emnkcn](https://github.com/emnkcn)|2|
-|2=|[eoin-obrien](https://github.com/eoin-obrien)|2|
+|2=|[GabrielBernard](https://github.com/GabrielBernard)|2|
 |2=|[BosEriko](https://github.com/BosEriko)|2|
+|2=|[Melissandre](https://github.com/Melissandre)|2|
+|2=|[eoin-obrien](https://github.com/eoin-obrien)|2|
+|2=|[stevedien](https://github.com/stevedien)|2|
 |2=|[diffiebosman](https://github.com/diffiebosman)|2|
-|2=|[DIrvin](https://github.com/DIrvin)|2|
-|2=|[lokifaer](https://github.com/lokifaer)|2|
-|2=|[AlbertoOS](https://github.com/AlbertoOS)|2|
-|2=|[Jmurp11](https://github.com/Jmurp11)|2|
 
 #FAQ
 
