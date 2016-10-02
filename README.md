@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[lukem512](https://github.com/lukem512)|2|
-|2=|[ndragon798](https://github.com/ndragon798)|1|
-|2=|[dduenhas](https://github.com/dduenhas)|1|
-|2=|[FFeliziani](https://github.com/FFeliziani)|1|
-|2=|[osiu97](https://github.com/osiu97)|1|
-|2=|[yarg0007](https://github.com/yarg0007)|1|
-|2=|[slechte](https://github.com/slechte)|1|
-|2=|[oso0521](https://github.com/oso0521)|1|
-|2=|[GreyTK](https://github.com/GreyTK)|1|
-|2=|[iamraviteja](https://github.com/iamraviteja)|1|
+|1|[molnarjani](https://github.com/molnarjani)|3|
+|2=|[GabrielBernard](https://github.com/GabrielBernard)|2|
+|2=|[emnkcn](https://github.com/emnkcn)|2|
+|2=|[eoin-obrien](https://github.com/eoin-obrien)|2|
+|2=|[BosEriko](https://github.com/BosEriko)|2|
+|2=|[diffiebosman](https://github.com/diffiebosman)|2|
+|2=|[DIrvin](https://github.com/DIrvin)|2|
+|2=|[lokifaer](https://github.com/lokifaer)|2|
+|2=|[AlbertoOS](https://github.com/AlbertoOS)|2|
+|2=|[Jmurp11](https://github.com/Jmurp11)|2|
 
 #FAQ
 
