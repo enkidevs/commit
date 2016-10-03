@@ -1,0 +1,5 @@
+Custom Node REPL Server
+`uncaughtException` listener in Node.js
+Factories design pattern
+Middleware/pipeline design pattern
+Avoid command injection 
