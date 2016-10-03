@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[molnarjani](https://github.com/molnarjani)|3|
-|2=|[pbriones](https://github.com/pbriones)|2|
-|2=|[Tom7353](https://github.com/Tom7353)|2|
-|2=|[Aniroel](https://github.com/Aniroel)|2|
-|2=|[aschiopu](https://github.com/aschiopu)|2|
-|2=|[GabrielBernard](https://github.com/GabrielBernard)|2|
-|2=|[eoin-obrien](https://github.com/eoin-obrien)|2|
-|2=|[diffiebosman](https://github.com/diffiebosman)|2|
-|2=|[DIrvin](https://github.com/DIrvin)|2|
-|2=|[lokifaer](https://github.com/lokifaer)|2|
+|1|[kiki407](https://github.com/kiki407)|4|
+|2=|[Mieta](https://github.com/Mieta)|3|
+|2=|[Witriol](https://github.com/Witriol)|3|
+|2=|[xblink](https://github.com/xblink)|3|
+|2=|[alfredlucero](https://github.com/alfredlucero)|3|
+|2=|[Aniroel](https://github.com/Aniroel)|3|
+|2=|[ashwin003](https://github.com/ashwin003)|3|
+|2=|[c-h-russell-walker](https://github.com/c-h-russell-walker)|3|
+|2=|[andrycodestuffs](https://github.com/andrycodestuffs)|3|
+|2=|[cordac](https://github.com/cordac)|3|
 
 #FAQ
 
