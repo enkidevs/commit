@@ -14,7 +14,7 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[kiki407](https://github.com/kiki407)|4|
-|2=|[Mieta](https://github.com/Mieta)|3|
+|2=|[RuudVerbeek](https://github.com/RuudVerbeek)|3|
 |2=|[Witriol](https://github.com/Witriol)|3|
 |2=|[xblink](https://github.com/xblink)|3|
 |2=|[alfredlucero](https://github.com/alfredlucero)|3|
