@@ -15,6 +15,7 @@ The top 10 committers this month are shown here.
 |------|------|---------|
 |1|[kiki407](https://github.com/kiki407)|4|
 |2=|[RuudVerbeek](https://github.com/RuudVerbeek)|3|
+|2=|[mariappandurga](https://github.com/mariappandurga)|3|
 |2=|[Witriol](https://github.com/Witriol)|3|
 |2=|[xblink](https://github.com/xblink)|3|
 |2=|[alfredlucero](https://github.com/alfredlucero)|3|
@@ -22,7 +23,6 @@ The top 10 committers this month are shown here.
 |2=|[ashwin003](https://github.com/ashwin003)|3|
 |2=|[c-h-russell-walker](https://github.com/c-h-russell-walker)|3|
 |2=|[andrycodestuffs](https://github.com/andrycodestuffs)|3|
-|2=|[cordac](https://github.com/cordac)|3|
 
 #FAQ
 
