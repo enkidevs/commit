@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[kiki407](https://github.com/kiki407)|5|
-|2=|[ladokp](https://github.com/ladokp)|4|
-|2=|[SympleKaos](https://github.com/SympleKaos)|4|
+|2=|[mjbozzo](https://github.com/mjbozzo)|4|
 |2=|[mariappandurga](https://github.com/mariappandurga)|4|
-|2=|[GiantTao](https://github.com/GiantTao)|4|
 |2=|[charlescbeebe](https://github.com/charlescbeebe)|4|
-|2=|[mohanrohith](https://github.com/mohanrohith)|4|
 |2=|[ashwin003](https://github.com/ashwin003)|4|
 |2=|[pldiiw](https://github.com/pldiiw)|4|
 |2=|[BosEriko](https://github.com/BosEriko)|4|
+|2=|[jjcarstens](https://github.com/jjcarstens)|4|
+|2=|[alfredlucero](https://github.com/alfredlucero)|4|
+|2=|[chrisella](https://github.com/chrisella)|4|
 
 #FAQ
 
