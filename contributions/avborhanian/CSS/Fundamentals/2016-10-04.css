@@ -1,0 +1,5 @@
+Make text unselectable
+Change the style of borders using `border-style`
+Use pseudo-classes to describe a special state of an element 
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Multiple borders with pseudo elements
