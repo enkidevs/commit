@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[kiki407](https://github.com/kiki407)|5|
-|2=|[peterjokumsen](https://github.com/peterjokumsen)|4|
-|2=|[mlaythe](https://github.com/mlaythe)|4|
-|2=|[SympleKaos](https://github.com/SympleKaos)|4|
-|2=|[mariappandurga](https://github.com/mariappandurga)|4|
-|2=|[charlescbeebe](https://github.com/charlescbeebe)|4|
-|2=|[ashwin003](https://github.com/ashwin003)|4|
-|2=|[pldiiw](https://github.com/pldiiw)|4|
-|2=|[BosEriko](https://github.com/BosEriko)|4|
-|2=|[jjcarstens](https://github.com/jjcarstens)|4|
+|1=|[hellonearthis](https://github.com/hellonearthis)|5|
+|1=|[pashar](https://github.com/pashar)|5|
+|1=|[kiki407](https://github.com/kiki407)|5|
+|1=|[mohanrohith](https://github.com/mohanrohith)|5|
+|1=|[patrickk93](https://github.com/patrickk93)|5|
+|1=|[saeedjassani](https://github.com/saeedjassani)|5|
+|1=|[jvlobo](https://github.com/jvlobo)|5|
+|1=|[a06kin](https://github.com/a06kin)|5|
+|1=|[peterjokumsen](https://github.com/peterjokumsen)|5|
+|1=|[maiatoday](https://github.com/maiatoday)|5|
 
 #FAQ
 
