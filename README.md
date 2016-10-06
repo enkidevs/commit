@@ -16,7 +16,7 @@ The top 10 committers this month are shown here.
 |1|[leriaz](https://github.com/leriaz)|7|
 |2=|[xblink](https://github.com/xblink)|6|
 |2=|[jjcarstens](https://github.com/jjcarstens)|6|
-|2=|[GiantTao](https://github.com/GiantTao)|6|
+|2=|[patrickk93](https://github.com/patrickk93)|6|
 |2=|[a06kin](https://github.com/a06kin)|6|
 |2=|[SympleKaos](https://github.com/SympleKaos)|6|
 |2=|[deanlyoung](https://github.com/deanlyoung)|6|
