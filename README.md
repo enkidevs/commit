@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[colinular](https://github.com/colinular)|5|
-|1=|[andrycodestuffs](https://github.com/andrycodestuffs)|5|
-|1=|[pashar](https://github.com/pashar)|5|
-|1=|[alfredlucero](https://github.com/alfredlucero)|5|
-|1=|[ndragon798](https://github.com/ndragon798)|5|
-|1=|[cashilts](https://github.com/cashilts)|5|
-|1=|[easobral](https://github.com/easobral)|5|
-|1=|[araghunde](https://github.com/araghunde)|5|
-|1=|[ashwin003](https://github.com/ashwin003)|5|
-|1=|[mateuszzagorski](https://github.com/mateuszzagorski)|5|
+|1|[leriaz](https://github.com/leriaz)|7|
+|2=|[xblink](https://github.com/xblink)|6|
+|2=|[jjcarstens](https://github.com/jjcarstens)|6|
+|2=|[patrickk93](https://github.com/patrickk93)|6|
+|2=|[a06kin](https://github.com/a06kin)|6|
+|2=|[SympleKaos](https://github.com/SympleKaos)|6|
+|2=|[deanlyoung](https://github.com/deanlyoung)|6|
+|2=|[zawadkaprzemek](https://github.com/zawadkaprzemek)|6|
+|2=|[savior1307](https://github.com/savior1307)|6|
+|2=|[srbaxter](https://github.com/srbaxter)|6|
 
 #FAQ
 
