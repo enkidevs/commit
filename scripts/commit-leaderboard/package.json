@@ -1,0 +1,23 @@
+{
+  "name": "commit-leaderboard",
+  "version": "1.0.0",
+  "description": "A job to create the leaderboard for github.com/enkidevs/commit",
+  "main": "run.js",
+  "scripts": {
+    "start": "node web.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Mitchell",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "^6.16.0",
+    "co": "^4.6.0",
+    "github-api": "^2.3.0",
+    "node-schedule": "^1.1.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.16.0",
+    "babel-core": "^6.17.0",
+    "babel-preset-es2015": "^6.16.0"
+  }
+}
