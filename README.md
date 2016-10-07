@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[leriaz](https://github.com/leriaz)|7|
-|2=|[xblink](https://github.com/xblink)|6|
-|2=|[jjcarstens](https://github.com/jjcarstens)|6|
-|2=|[patrickk93](https://github.com/patrickk93)|6|
-|2=|[a06kin](https://github.com/a06kin)|6|
-|2=|[SympleKaos](https://github.com/SympleKaos)|6|
-|2=|[deanlyoung](https://github.com/deanlyoung)|6|
-|2=|[zawadkaprzemek](https://github.com/zawadkaprzemek)|6|
-|2=|[savior1307](https://github.com/savior1307)|6|
-|2=|[srbaxter](https://github.com/srbaxter)|6|
+|1|[leriaz](https://github.com/leriaz)|8|
+|2=|[Tipertuba](https://github.com/Tipertuba)|7|
+|2=|[mariappandurga](https://github.com/mariappandurga)|7|
+|2=|[DIrvin](https://github.com/DIrvin)|7|
+|2=|[ashwin003](https://github.com/ashwin003)|7|
+|2=|[yarg0007](https://github.com/yarg0007)|7|
+|2=|[peterjokumsen](https://github.com/peterjokumsen)|7|
+|2=|[Macbrine](https://github.com/Macbrine)|7|
+|2=|[seergiioo6](https://github.com/seergiioo6)|7|
+|2=|[atfost3r](https://github.com/atfost3r)|7|
 
 #FAQ
 
