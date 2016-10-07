@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|8|
-|2=|[Tipertuba](https://github.com/Tipertuba)|7|
+|2=|[pldiiw](https://github.com/pldiiw)|7|
+|2=|[padawan4330](https://github.com/padawan4330)|7|
+|2=|[DigitalRevolution](https://github.com/DigitalRevolution)|7|
+|2=|[agelfdude23](https://github.com/agelfdude23)|7|
 |2=|[mariappandurga](https://github.com/mariappandurga)|7|
 |2=|[DIrvin](https://github.com/DIrvin)|7|
 |2=|[ashwin003](https://github.com/ashwin003)|7|
 |2=|[yarg0007](https://github.com/yarg0007)|7|
 |2=|[peterjokumsen](https://github.com/peterjokumsen)|7|
-|2=|[Macbrine](https://github.com/Macbrine)|7|
-|2=|[seergiioo6](https://github.com/seergiioo6)|7|
-|2=|[atfost3r](https://github.com/atfost3r)|7|
 
 #FAQ
 
