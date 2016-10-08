@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[leriaz](https://github.com/leriaz)|8|
-|2=|[pldiiw](https://github.com/pldiiw)|7|
-|2=|[padawan4330](https://github.com/padawan4330)|7|
-|2=|[DigitalRevolution](https://github.com/DigitalRevolution)|7|
-|2=|[agelfdude23](https://github.com/agelfdude23)|7|
-|2=|[mariappandurga](https://github.com/mariappandurga)|7|
-|2=|[DIrvin](https://github.com/DIrvin)|7|
-|2=|[ashwin003](https://github.com/ashwin003)|7|
-|2=|[yarg0007](https://github.com/yarg0007)|7|
-|2=|[peterjokumsen](https://github.com/peterjokumsen)|7|
+|1|[leriaz](https://github.com/leriaz)|10|
+|2=|[pbriones](https://github.com/pbriones)|8|
+|2=|[ashwin003](https://github.com/ashwin003)|8|
+|2=|[vicvarros](https://github.com/vicvarros)|8|
+|2=|[agelfdude23](https://github.com/agelfdude23)|8|
+|2=|[charlescbeebe](https://github.com/charlescbeebe)|8|
+|2=|[rschlaefli](https://github.com/rschlaefli)|8|
+|2=|[colinular](https://github.com/colinular)|8|
+|2=|[AlbertoOS](https://github.com/AlbertoOS)|8|
+|2=|[ajlatour](https://github.com/ajlatour)|8|
 
 #FAQ
 
