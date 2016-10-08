@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|10|
-|2=|[nvasileiadis](https://github.com/nvasileiadis)|8|
-|2=|[hansonryne](https://github.com/hansonryne)|8|
+|2=|[pbriones](https://github.com/pbriones)|8|
 |2=|[bbialek](https://github.com/bbialek)|8|
-|2=|[GiantTao](https://github.com/GiantTao)|8|
 |2=|[Kolejarzyk](https://github.com/Kolejarzyk)|8|
-|2=|[Preston-Marques](https://github.com/Preston-Marques)|8|
-|2=|[Witriol](https://github.com/Witriol)|8|
-|2=|[Selenthios](https://github.com/Selenthios)|8|
-|2=|[AndyT94](https://github.com/AndyT94)|8|
+|2=|[ashwin003](https://github.com/ashwin003)|8|
+|2=|[vicvarros](https://github.com/vicvarros)|8|
+|2=|[agelfdude23](https://github.com/agelfdude23)|8|
+|2=|[charlescbeebe](https://github.com/charlescbeebe)|8|
+|2=|[rschlaefli](https://github.com/rschlaefli)|8|
+|2=|[colinular](https://github.com/colinular)|8|
 
 #FAQ
 
