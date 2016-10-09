@@ -14,7 +14,7 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|11|
-|2=|[jacobvarner](https://github.com/jacobvarner)|9|
+|2=|[Preston-Marques](https://github.com/Preston-Marques)|9|
 |2=|[uvafan91](https://github.com/uvafan91)|9|
 |2=|[saeedjassani](https://github.com/saeedjassani)|9|
 |2=|[GabrielBernard](https://github.com/GabrielBernard)|9|
