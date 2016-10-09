@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[leriaz](https://github.com/leriaz)|10|
-|2=|[pbriones](https://github.com/pbriones)|8|
-|2=|[bbialek](https://github.com/bbialek)|8|
-|2=|[Kolejarzyk](https://github.com/Kolejarzyk)|8|
-|2=|[ashwin003](https://github.com/ashwin003)|8|
-|2=|[vicvarros](https://github.com/vicvarros)|8|
-|2=|[agelfdude23](https://github.com/agelfdude23)|8|
-|2=|[charlescbeebe](https://github.com/charlescbeebe)|8|
-|2=|[rschlaefli](https://github.com/rschlaefli)|8|
-|2=|[colinular](https://github.com/colinular)|8|
+|1|[leriaz](https://github.com/leriaz)|11|
+|2=|[jacobvarner](https://github.com/jacobvarner)|9|
+|2=|[uvafan91](https://github.com/uvafan91)|9|
+|2=|[saeedjassani](https://github.com/saeedjassani)|9|
+|2=|[GabrielBernard](https://github.com/GabrielBernard)|9|
+|2=|[ashwin003](https://github.com/ashwin003)|9|
+|2=|[DigitalRevolution](https://github.com/DigitalRevolution)|9|
+|2=|[Solflux](https://github.com/Solflux)|9|
+|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|9|
+|2=|[dantasse](https://github.com/dantasse)|9|
 
 #FAQ
 
