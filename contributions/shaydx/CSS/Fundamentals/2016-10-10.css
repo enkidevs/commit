@@ -1,0 +1,5 @@
+Inline Elements Characteristics
+Use `box-sizing` to define an element's `width` and `height` properties 
+Determine the opacity of background-colors using the RGBA declaration
+Highlight input forms using `:focus` pseudo-class
+Styling elements using `::before` and `::after`
