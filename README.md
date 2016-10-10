@@ -14,8 +14,7 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|12|
-|2=|[Kolejarzyk](https://github.com/Kolejarzyk)|10|
-|2=|[DanielThurau](https://github.com/DanielThurau)|10|
+|2=|[MightyMaveous](https://github.com/MightyMaveous)|10|
 |2=|[DIrvin](https://github.com/DIrvin)|10|
 |2=|[Fenetic](https://github.com/Fenetic)|10|
 |2=|[dantasse](https://github.com/dantasse)|10|
@@ -23,6 +22,7 @@ The top 10 committers this month are shown here.
 |2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|10|
 |2=|[corpulentcoffee](https://github.com/corpulentcoffee)|10|
 |2=|[jjcarstens](https://github.com/jjcarstens)|10|
+|2=|[litorers](https://github.com/litorers)|10|
 
 #FAQ
 
