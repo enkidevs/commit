@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[leriaz](https://github.com/leriaz)|11|
-|2=|[Preston-Marques](https://github.com/Preston-Marques)|9|
-|2=|[ajlatour](https://github.com/ajlatour)|9|
-|2=|[uvafan91](https://github.com/uvafan91)|9|
-|2=|[saeedjassani](https://github.com/saeedjassani)|9|
-|2=|[GabrielBernard](https://github.com/GabrielBernard)|9|
-|2=|[ashwin003](https://github.com/ashwin003)|9|
-|2=|[DigitalRevolution](https://github.com/DigitalRevolution)|9|
-|2=|[Solflux](https://github.com/Solflux)|9|
-|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|9|
+|1|[leriaz](https://github.com/leriaz)|12|
+|2=|[kenwalger](https://github.com/kenwalger)|10|
+|2=|[DIrvin](https://github.com/DIrvin)|10|
+|2=|[Fenetic](https://github.com/Fenetic)|10|
+|2=|[Witriol](https://github.com/Witriol)|10|
+|2=|[dantasse](https://github.com/dantasse)|10|
+|2=|[ChristianGaertner](https://github.com/ChristianGaertner)|10|
+|2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|10|
+|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|10|
+|2=|[Preston-Marques](https://github.com/Preston-Marques)|10|
 
 #FAQ
 
