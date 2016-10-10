@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|12|
-|2=|[MightyMaveous](https://github.com/MightyMaveous)|10|
+|2=|[Macbrine](https://github.com/Macbrine)|10|
+|2=|[brerx](https://github.com/brerx)|10|
+|2=|[Witriol](https://github.com/Witriol)|10|
+|2=|[TheRealVira](https://github.com/TheRealVira)|10|
+|2=|[martin-rifon](https://github.com/martin-rifon)|10|
+|2=|[mlaythe](https://github.com/mlaythe)|10|
+|2=|[DanielThurau](https://github.com/DanielThurau)|10|
 |2=|[DIrvin](https://github.com/DIrvin)|10|
 |2=|[Fenetic](https://github.com/Fenetic)|10|
-|2=|[dantasse](https://github.com/dantasse)|10|
-|2=|[ChristianGaertner](https://github.com/ChristianGaertner)|10|
-|2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|10|
-|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|10|
-|2=|[jjcarstens](https://github.com/jjcarstens)|10|
-|2=|[litorers](https://github.com/litorers)|10|
 
 #FAQ
 
