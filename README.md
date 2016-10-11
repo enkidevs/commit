@@ -14,7 +14,7 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|12|
-|2=|[mrewers](https://github.com/mrewers)|11|
+|2=|[nvasileiadis](https://github.com/nvasileiadis)|11|
 |2=|[kenwalger](https://github.com/kenwalger)|11|
 |2=|[MikeLDJ](https://github.com/MikeLDJ)|11|
 |2=|[lordmalvern](https://github.com/lordmalvern)|11|
