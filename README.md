@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|12|
-|2=|[Macbrine](https://github.com/Macbrine)|10|
-|2=|[brerx](https://github.com/brerx)|10|
-|2=|[Witriol](https://github.com/Witriol)|10|
-|2=|[TheRealVira](https://github.com/TheRealVira)|10|
-|2=|[martin-rifon](https://github.com/martin-rifon)|10|
-|2=|[mlaythe](https://github.com/mlaythe)|10|
-|2=|[DanielThurau](https://github.com/DanielThurau)|10|
-|2=|[DIrvin](https://github.com/DIrvin)|10|
-|2=|[Fenetic](https://github.com/Fenetic)|10|
+|2=|[mrewers](https://github.com/mrewers)|11|
+|2=|[kenwalger](https://github.com/kenwalger)|11|
+|2=|[MikeLDJ](https://github.com/MikeLDJ)|11|
+|2=|[lordmalvern](https://github.com/lordmalvern)|11|
+|2=|[dantasse](https://github.com/dantasse)|11|
+|2=|[deanlyoung](https://github.com/deanlyoung)|11|
+|2=|[savior1307](https://github.com/savior1307)|11|
+|2=|[ajlatour](https://github.com/ajlatour)|11|
+|2=|[DigitalRevolution](https://github.com/DigitalRevolution)|11|
 
 #FAQ
 
