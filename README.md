@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|12|
-|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|11|
-|2=|[litorers](https://github.com/litorers)|11|
-|2=|[mlaythe](https://github.com/mlaythe)|11|
-|2=|[DIrvin](https://github.com/DIrvin)|11|
-|2=|[kenwalger](https://github.com/kenwalger)|11|
+|2=|[GabrielBernard](https://github.com/GabrielBernard)|11|
+|2=|[psychorobotninja](https://github.com/psychorobotninja)|11|
+|2=|[martin-rifon](https://github.com/martin-rifon)|11|
 |2=|[mbode](https://github.com/mbode)|11|
+|2=|[padawan4330](https://github.com/padawan4330)|11|
+|2=|[bbialek](https://github.com/bbialek)|11|
+|2=|[litorers](https://github.com/litorers)|11|
 |2=|[maiatoday](https://github.com/maiatoday)|11|
-|2=|[MikeLDJ](https://github.com/MikeLDJ)|11|
-|2=|[lordmalvern](https://github.com/lordmalvern)|11|
+|2=|[mlaythe](https://github.com/mlaythe)|11|
 
 #FAQ
 
