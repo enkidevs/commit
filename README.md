@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|12|
-|2=|[nvasileiadis](https://github.com/nvasileiadis)|11|
+|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|11|
+|2=|[litorers](https://github.com/litorers)|11|
+|2=|[mlaythe](https://github.com/mlaythe)|11|
+|2=|[DIrvin](https://github.com/DIrvin)|11|
 |2=|[kenwalger](https://github.com/kenwalger)|11|
+|2=|[mbode](https://github.com/mbode)|11|
+|2=|[maiatoday](https://github.com/maiatoday)|11|
 |2=|[MikeLDJ](https://github.com/MikeLDJ)|11|
 |2=|[lordmalvern](https://github.com/lordmalvern)|11|
-|2=|[dantasse](https://github.com/dantasse)|11|
-|2=|[deanlyoung](https://github.com/deanlyoung)|11|
-|2=|[savior1307](https://github.com/savior1307)|11|
-|2=|[ajlatour](https://github.com/ajlatour)|11|
-|2=|[DigitalRevolution](https://github.com/DigitalRevolution)|11|
 
 #FAQ
 
