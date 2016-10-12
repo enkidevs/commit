@@ -15,14 +15,14 @@ The top 10 committers this month are shown here.
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|14|
 |2|[GabrielBernard](https://github.com/GabrielBernard)|13|
-|3=|[Selenthios](https://github.com/Selenthios)|12|
-|3=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|12|
+|3=|[josekarlor](https://github.com/josekarlor)|12|
 |3=|[vicvarros](https://github.com/vicvarros)|12|
 |3=|[DigitalRevolution](https://github.com/DigitalRevolution)|12|
 |3=|[savior1307](https://github.com/savior1307)|12|
 |3=|[litorers](https://github.com/litorers)|12|
 |3=|[yarg0007](https://github.com/yarg0007)|12|
 |3=|[durandj](https://github.com/durandj)|12|
+|3=|[corpulentcoffee](https://github.com/corpulentcoffee)|12|
 
 #FAQ
 
