@@ -15,14 +15,14 @@ The top 10 committers this month are shown here.
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|14|
 |2|[GabrielBernard](https://github.com/GabrielBernard)|13|
-|3=|[RuudVerbeek](https://github.com/RuudVerbeek)|12|
+|3=|[momoneko](https://github.com/momoneko)|12|
+|3=|[ajlatour](https://github.com/ajlatour)|12|
+|3=|[DIrvin](https://github.com/DIrvin)|12|
+|3=|[TotKindGott](https://github.com/TotKindGott)|12|
 |3=|[deanlyoung](https://github.com/deanlyoung)|12|
 |3=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|12|
-|3=|[ajlatour](https://github.com/ajlatour)|12|
 |3=|[vicvarros](https://github.com/vicvarros)|12|
 |3=|[DigitalRevolution](https://github.com/DigitalRevolution)|12|
-|3=|[savior1307](https://github.com/savior1307)|12|
-|3=|[litorers](https://github.com/litorers)|12|
 
 #FAQ
 
