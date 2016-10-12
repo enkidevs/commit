@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[leriaz](https://github.com/leriaz)|12|
-|2=|[GabrielBernard](https://github.com/GabrielBernard)|11|
-|2=|[psychorobotninja](https://github.com/psychorobotninja)|11|
-|2=|[martin-rifon](https://github.com/martin-rifon)|11|
-|2=|[mbode](https://github.com/mbode)|11|
-|2=|[padawan4330](https://github.com/padawan4330)|11|
-|2=|[bbialek](https://github.com/bbialek)|11|
-|2=|[litorers](https://github.com/litorers)|11|
-|2=|[maiatoday](https://github.com/maiatoday)|11|
-|2=|[mlaythe](https://github.com/mlaythe)|11|
+|1|[leriaz](https://github.com/leriaz)|14|
+|2|[GabrielBernard](https://github.com/GabrielBernard)|13|
+|3=|[Selenthios](https://github.com/Selenthios)|12|
+|3=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|12|
+|3=|[vicvarros](https://github.com/vicvarros)|12|
+|3=|[DigitalRevolution](https://github.com/DigitalRevolution)|12|
+|3=|[savior1307](https://github.com/savior1307)|12|
+|3=|[litorers](https://github.com/litorers)|12|
+|3=|[yarg0007](https://github.com/yarg0007)|12|
+|3=|[durandj](https://github.com/durandj)|12|
 
 #FAQ
 
