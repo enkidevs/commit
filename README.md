@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[leriaz](https://github.com/leriaz)|14|
-|2=|[ChristianGaertner](https://github.com/ChristianGaertner)|13|
+|2=|[knary](https://github.com/knary)|13|
+|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|13|
 |2=|[padawan4330](https://github.com/padawan4330)|13|
 |2=|[kenwalger](https://github.com/kenwalger)|13|
 |2=|[DigitalRevolution](https://github.com/DigitalRevolution)|13|
 |2=|[jacobvarner](https://github.com/jacobvarner)|13|
 |2=|[srbaxter](https://github.com/srbaxter)|13|
 |2=|[hansonryne](https://github.com/hansonryne)|13|
-|2=|[litorers](https://github.com/litorers)|13|
-|2=|[Preston-Marques](https://github.com/Preston-Marques)|13|
+|2=|[GabrielBernard](https://github.com/GabrielBernard)|13|
 
 #FAQ
 
