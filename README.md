@@ -15,14 +15,14 @@ The top 10 committers this month are shown here.
 |------|------|---------|
 |1|[GabrielBernard](https://github.com/GabrielBernard)|16|
 |2|[leriaz](https://github.com/leriaz)|15|
-|3=|[RuudVerbeek](https://github.com/RuudVerbeek)|14|
+|3=|[yarg0007](https://github.com/yarg0007)|14|
+|3=|[TheRealVira](https://github.com/TheRealVira)|14|
+|3=|[mbode](https://github.com/mbode)|14|
+|3=|[bbohac](https://github.com/bbohac)|14|
 |3=|[padawan4330](https://github.com/padawan4330)|14|
-|3=|[Witriol](https://github.com/Witriol)|14|
+|3=|[charlescbeebe](https://github.com/charlescbeebe)|14|
 |3=|[kenwalger](https://github.com/kenwalger)|14|
 |3=|[corpulentcoffee](https://github.com/corpulentcoffee)|14|
-|3=|[srbaxter](https://github.com/srbaxter)|14|
-|3=|[litorers](https://github.com/litorers)|14|
-|3=|[mlaythe](https://github.com/mlaythe)|14|
 
 #FAQ
 
