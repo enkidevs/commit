@@ -14,7 +14,8 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[GabrielBernard](https://github.com/GabrielBernard)|16|
-|2=|[bbohac](https://github.com/bbohac)|15|
+|2=|[srbaxter](https://github.com/srbaxter)|15|
+|2=|[PotHix](https://github.com/PotHix)|15|
 |2=|[13scoobie](https://github.com/13scoobie)|15|
 |2=|[uvafan91](https://github.com/uvafan91)|15|
 |2=|[kenwalger](https://github.com/kenwalger)|15|
@@ -22,7 +23,6 @@ The top 10 committers this month are shown here.
 |2=|[DigitalRevolution](https://github.com/DigitalRevolution)|15|
 |2=|[yarg0007](https://github.com/yarg0007)|15|
 |2=|[colinular](https://github.com/colinular)|15|
-|2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|15|
 
 #FAQ
 
