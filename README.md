@@ -14,7 +14,7 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[GabrielBernard](https://github.com/GabrielBernard)|16|
-|2=|[srbaxter](https://github.com/srbaxter)|15|
+|2=|[seergiioo6](https://github.com/seergiioo6)|15|
 |2=|[PotHix](https://github.com/PotHix)|15|
 |2=|[13scoobie](https://github.com/13scoobie)|15|
 |2=|[uvafan91](https://github.com/uvafan91)|15|
