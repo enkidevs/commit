@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[GabrielBernard](https://github.com/GabrielBernard)|16|
-|2|[leriaz](https://github.com/leriaz)|15|
-|3=|[yarg0007](https://github.com/yarg0007)|14|
-|3=|[TheRealVira](https://github.com/TheRealVira)|14|
-|3=|[mbode](https://github.com/mbode)|14|
-|3=|[bbohac](https://github.com/bbohac)|14|
-|3=|[padawan4330](https://github.com/padawan4330)|14|
-|3=|[charlescbeebe](https://github.com/charlescbeebe)|14|
-|3=|[kenwalger](https://github.com/kenwalger)|14|
-|3=|[corpulentcoffee](https://github.com/corpulentcoffee)|14|
+|2=|[bbohac](https://github.com/bbohac)|15|
+|2=|[13scoobie](https://github.com/13scoobie)|15|
+|2=|[uvafan91](https://github.com/uvafan91)|15|
+|2=|[kenwalger](https://github.com/kenwalger)|15|
+|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|15|
+|2=|[DigitalRevolution](https://github.com/DigitalRevolution)|15|
+|2=|[yarg0007](https://github.com/yarg0007)|15|
+|2=|[colinular](https://github.com/colinular)|15|
+|2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|15|
 
 #FAQ
 
