@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[GabrielBernard](https://github.com/GabrielBernard)|17|
-|2=|[TotKindGott](https://github.com/TotKindGott)|16|
+|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|16|
 |2=|[diffiebosman](https://github.com/diffiebosman)|16|
 |2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|16|
+|2=|[maiatoday](https://github.com/maiatoday)|16|
 |2=|[DigitalRevolution](https://github.com/DigitalRevolution)|16|
 |2=|[Lizander](https://github.com/Lizander)|16|
 |2=|[hellonearthis](https://github.com/hellonearthis)|16|
 |2=|[srbaxter](https://github.com/srbaxter)|16|
-|2=|[Selenthios](https://github.com/Selenthios)|16|
-|2=|[kenwalger](https://github.com/kenwalger)|16|
+|2=|[clobrano](https://github.com/clobrano)|16|
 
 #FAQ
 
