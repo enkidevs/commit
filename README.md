@@ -20,9 +20,9 @@ The top 10 committers this month are shown here.
 |2=|[hansonryne](https://github.com/hansonryne)|17|
 |2=|[DigitalRevolution](https://github.com/DigitalRevolution)|17|
 |2=|[knary](https://github.com/knary)|17|
+|2=|[araghunde](https://github.com/araghunde)|17|
 |2=|[durandj](https://github.com/durandj)|17|
 |2=|[srbaxter](https://github.com/srbaxter)|17|
-|2=|[Selenthios](https://github.com/Selenthios)|17|
 
 #FAQ
 
