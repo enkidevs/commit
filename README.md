@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[GabrielBernard](https://github.com/GabrielBernard)|17|
-|2=|[rhaynel-parra](https://github.com/rhaynel-parra)|16|
-|2=|[13scoobie](https://github.com/13scoobie)|16|
-|2=|[diffiebosman](https://github.com/diffiebosman)|16|
-|2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|16|
-|2=|[DigitalRevolution](https://github.com/DigitalRevolution)|16|
-|2=|[Lizander](https://github.com/Lizander)|16|
-|2=|[hellonearthis](https://github.com/hellonearthis)|16|
-|2=|[srbaxter](https://github.com/srbaxter)|16|
-|2=|[Selenthios](https://github.com/Selenthios)|16|
+|1|[GabrielBernard](https://github.com/GabrielBernard)|18|
+|2=|[pbriones](https://github.com/pbriones)|17|
+|2=|[yarg0007](https://github.com/yarg0007)|17|
+|2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|17|
+|2=|[hansonryne](https://github.com/hansonryne)|17|
+|2=|[DigitalRevolution](https://github.com/DigitalRevolution)|17|
+|2=|[knary](https://github.com/knary)|17|
+|2=|[durandj](https://github.com/durandj)|17|
+|2=|[srbaxter](https://github.com/srbaxter)|17|
+|2=|[Selenthios](https://github.com/Selenthios)|17|
 
 #FAQ
 
