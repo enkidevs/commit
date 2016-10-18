@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[GabrielBernard](https://github.com/GabrielBernard)|18|
-|2=|[TheRealVira](https://github.com/TheRealVira)|17|
-|2=|[Creeperfriend](https://github.com/Creeperfriend)|17|
-|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|17|
-|2=|[mlaythe](https://github.com/mlaythe)|17|
-|2=|[pbriones](https://github.com/pbriones)|17|
-|2=|[mrewers](https://github.com/mrewers)|17|
-|2=|[kenwalger](https://github.com/kenwalger)|17|
-|2=|[yarg0007](https://github.com/yarg0007)|17|
-|2=|[momoneko](https://github.com/momoneko)|17|
+|1|[GabrielBernard](https://github.com/GabrielBernard)|19|
+|2=|[clobrano](https://github.com/clobrano)|18|
+|2=|[Witriol](https://github.com/Witriol)|18|
+|2=|[mrewers](https://github.com/mrewers)|18|
+|2=|[bbohac](https://github.com/bbohac)|18|
+|2=|[srbaxter](https://github.com/srbaxter)|18|
+|2=|[durandj](https://github.com/durandj)|18|
+|2=|[TotKindGott](https://github.com/TotKindGott)|18|
+|2=|[maiatoday](https://github.com/maiatoday)|18|
+|2=|[PotHix](https://github.com/PotHix)|18|
 
 #FAQ
 
