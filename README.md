@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[GabrielBernard](https://github.com/GabrielBernard)|19|
-|2=|[knary](https://github.com/knary)|18|
-|2=|[psychorobotninja](https://github.com/psychorobotninja)|18|
-|2=|[Witriol](https://github.com/Witriol)|18|
-|2=|[DigitalRevolution](https://github.com/DigitalRevolution)|18|
-|2=|[litorers](https://github.com/litorers)|18|
-|2=|[mlaythe](https://github.com/mlaythe)|18|
-|2=|[mrewers](https://github.com/mrewers)|18|
-|2=|[srbaxter](https://github.com/srbaxter)|18|
-|2=|[durandj](https://github.com/durandj)|18|
+|1|[GabrielBernard](https://github.com/GabrielBernard)|21|
+|2=|[kenwalger](https://github.com/kenwalger)|19|
+|2=|[araghunde](https://github.com/araghunde)|19|
+|2=|[maiatoday](https://github.com/maiatoday)|19|
+|2=|[Mark3z](https://github.com/Mark3z)|19|
+|2=|[PotHix](https://github.com/PotHix)|19|
+|2=|[TotKindGott](https://github.com/TotKindGott)|19|
+|2=|[MikeLDJ](https://github.com/MikeLDJ)|19|
+|2=|[Zanex](https://github.com/Zanex)|19|
+|2=|[mlaythe](https://github.com/mlaythe)|19|
 
 #FAQ
 
