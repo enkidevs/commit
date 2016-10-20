@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[GabrielBernard](https://github.com/GabrielBernard)|21|
-|2=|[kenwalger](https://github.com/kenwalger)|19|
-|2=|[araghunde](https://github.com/araghunde)|19|
-|2=|[maiatoday](https://github.com/maiatoday)|19|
-|2=|[Mark3z](https://github.com/Mark3z)|19|
-|2=|[PotHix](https://github.com/PotHix)|19|
-|2=|[TotKindGott](https://github.com/TotKindGott)|19|
-|2=|[MikeLDJ](https://github.com/MikeLDJ)|19|
-|2=|[Zanex](https://github.com/Zanex)|19|
-|2=|[mlaythe](https://github.com/mlaythe)|19|
+|2=|[hellonearthis](https://github.com/hellonearthis)|20|
+|2=|[13scoobie](https://github.com/13scoobie)|20|
+|2=|[maiatoday](https://github.com/maiatoday)|20|
+|2=|[TheRealVira](https://github.com/TheRealVira)|20|
+|2=|[pbriones](https://github.com/pbriones)|20|
+|2=|[Witriol](https://github.com/Witriol)|20|
+|2=|[momoneko](https://github.com/momoneko)|20|
+|2=|[bbohac](https://github.com/bbohac)|20|
+|2=|[colinular](https://github.com/colinular)|20|
 
 #FAQ
 
