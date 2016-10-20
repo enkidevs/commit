@@ -1,0 +1,1 @@
+Prevent background image flicker in **IE**
