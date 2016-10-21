@@ -1,0 +1,4 @@
+Three ways to substitute a substring of a string
+Compare sequences with `difflib`
+Get the similarity ratio of two sequences
+Working with junk data
