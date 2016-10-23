@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[GabrielBernard](https://github.com/GabrielBernard)|23|
-|2=|[charlescbeebe](https://github.com/charlescbeebe)|22|
-|2=|[araghunde](https://github.com/araghunde)|22|
-|2=|[hellonearthis](https://github.com/hellonearthis)|22|
-|2=|[durandj](https://github.com/durandj)|22|
-|2=|[yarg0007](https://github.com/yarg0007)|22|
-|2=|[13scoobie](https://github.com/13scoobie)|22|
-|2=|[litorers](https://github.com/litorers)|22|
-|2=|[kenwalger](https://github.com/kenwalger)|22|
-|2=|[srbaxter](https://github.com/srbaxter)|22|
+|1|[GabrielBernard](https://github.com/GabrielBernard)|24|
+|2=|[momoneko](https://github.com/momoneko)|23|
+|2=|[seergiioo6](https://github.com/seergiioo6)|23|
+|2=|[hansonryne](https://github.com/hansonryne)|23|
+|2=|[colinular](https://github.com/colinular)|23|
+|2=|[pbriones](https://github.com/pbriones)|23|
+|2=|[PotHix](https://github.com/PotHix)|23|
+|2=|[Zanex](https://github.com/Zanex)|23|
+|2=|[charlescbeebe](https://github.com/charlescbeebe)|23|
+|2=|[durandj](https://github.com/durandj)|23|
 
 #FAQ
 
