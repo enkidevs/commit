@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[GabrielBernard](https://github.com/GabrielBernard)|24|
-|2=|[momoneko](https://github.com/momoneko)|23|
-|2=|[seergiioo6](https://github.com/seergiioo6)|23|
-|2=|[hansonryne](https://github.com/hansonryne)|23|
-|2=|[colinular](https://github.com/colinular)|23|
-|2=|[pbriones](https://github.com/pbriones)|23|
-|2=|[PotHix](https://github.com/PotHix)|23|
-|2=|[Zanex](https://github.com/Zanex)|23|
-|2=|[charlescbeebe](https://github.com/charlescbeebe)|23|
-|2=|[durandj](https://github.com/durandj)|23|
+|1|[GabrielBernard](https://github.com/GabrielBernard)|25|
+|2=|[TotKindGott](https://github.com/TotKindGott)|24|
+|2=|[colinular](https://github.com/colinular)|24|
+|2=|[srbaxter](https://github.com/srbaxter)|24|
+|2=|[bbohac](https://github.com/bbohac)|24|
+|2=|[hansonryne](https://github.com/hansonryne)|24|
+|2=|[Witriol](https://github.com/Witriol)|24|
+|2=|[kenwalger](https://github.com/kenwalger)|24|
+|2=|[durandj](https://github.com/durandj)|24|
+|2=|[aquincy](https://github.com/aquincy)|24|
 
 #FAQ
 
