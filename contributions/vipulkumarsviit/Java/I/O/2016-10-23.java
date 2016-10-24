@@ -1,0 +1,1 @@
+List contents of a directory with `newDirectoryStream`
