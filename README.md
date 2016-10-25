@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[GabrielBernard](https://github.com/GabrielBernard)|25|
-|2=|[TotKindGott](https://github.com/TotKindGott)|24|
-|2=|[colinular](https://github.com/colinular)|24|
-|2=|[srbaxter](https://github.com/srbaxter)|24|
-|2=|[bbohac](https://github.com/bbohac)|24|
-|2=|[hansonryne](https://github.com/hansonryne)|24|
-|2=|[Witriol](https://github.com/Witriol)|24|
-|2=|[kenwalger](https://github.com/kenwalger)|24|
-|2=|[durandj](https://github.com/durandj)|24|
-|2=|[aquincy](https://github.com/aquincy)|24|
+|1|[GabrielBernard](https://github.com/GabrielBernard)|26|
+|2=|[kenwalger](https://github.com/kenwalger)|25|
+|2=|[psychorobotninja](https://github.com/psychorobotninja)|25|
+|2=|[TotKindGott](https://github.com/TotKindGott)|25|
+|2=|[maiatoday](https://github.com/maiatoday)|25|
+|2=|[Witriol](https://github.com/Witriol)|25|
+|2=|[yarg0007](https://github.com/yarg0007)|25|
+|2=|[TheRealVira](https://github.com/TheRealVira)|25|
+|2=|[knary](https://github.com/knary)|25|
+|2=|[litorers](https://github.com/litorers)|25|
 
 #FAQ
 
