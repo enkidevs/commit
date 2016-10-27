@@ -1,0 +1,5 @@
+Rest parameters
+The `spread` operator
+Binary and octal notation in ES6
+`WeakMap` in ES6
+ES6 Generator Transpiler
