@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[GabrielBernard](https://github.com/GabrielBernard)|27|
-|2=|[srbaxter](https://github.com/srbaxter)|26|
-|2=|[TotKindGott](https://github.com/TotKindGott)|26|
-|2=|[TheRealVira](https://github.com/TheRealVira)|26|
-|2=|[bbohac](https://github.com/bbohac)|26|
-|2=|[durandj](https://github.com/durandj)|26|
-|2=|[yarg0007](https://github.com/yarg0007)|26|
-|2=|[pbriones](https://github.com/pbriones)|26|
-|2=|[hansonryne](https://github.com/hansonryne)|26|
-|2=|[araghunde](https://github.com/araghunde)|26|
+|1|[GabrielBernard](https://github.com/GabrielBernard)|28|
+|2=|[pbriones](https://github.com/pbriones)|27|
+|2=|[TheRealVira](https://github.com/TheRealVira)|27|
+|2=|[TotKindGott](https://github.com/TotKindGott)|27|
+|2=|[durandj](https://github.com/durandj)|27|
+|2=|[litorers](https://github.com/litorers)|27|
+|2=|[colinular](https://github.com/colinular)|27|
+|2=|[hansonryne](https://github.com/hansonryne)|27|
+|2=|[bbohac](https://github.com/bbohac)|27|
+|2=|[yarg0007](https://github.com/yarg0007)|27|
 
 #FAQ
 
