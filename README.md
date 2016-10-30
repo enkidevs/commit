@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[GabrielBernard](https://github.com/GabrielBernard)|30|
-|2=|[hansonryne](https://github.com/hansonryne)|29|
-|2=|[TheRealVira](https://github.com/TheRealVira)|29|
-|2=|[Selenthios](https://github.com/Selenthios)|29|
-|2=|[durandj](https://github.com/durandj)|29|
-|2=|[TotKindGott](https://github.com/TotKindGott)|29|
-|2=|[momoneko](https://github.com/momoneko)|29|
-|2=|[kenwalger](https://github.com/kenwalger)|29|
-|2=|[srbaxter](https://github.com/srbaxter)|29|
-|2=|[colinular](https://github.com/colinular)|29|
+|1|[GabrielBernard](https://github.com/GabrielBernard)|31|
+|2=|[durandj](https://github.com/durandj)|30|
+|2=|[TotKindGott](https://github.com/TotKindGott)|30|
+|2=|[momoneko](https://github.com/momoneko)|30|
+|2=|[Lizander](https://github.com/Lizander)|30|
+|2=|[kenwalger](https://github.com/kenwalger)|30|
+|2=|[colinular](https://github.com/colinular)|30|
+|2=|[srbaxter](https://github.com/srbaxter)|30|
+|2=|[bbohac](https://github.com/bbohac)|30|
+|2=|[pbriones](https://github.com/pbriones)|30|
 
 #FAQ
 
