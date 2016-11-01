@@ -15,6 +15,7 @@ The top 10 committers this month are shown here.
 |------|------|---------|
 |1=|[bladesbravo](https://github.com/bladesbravo)|2|
 |1=|[rayjee](https://github.com/rayjee)|2|
+|1=|[JonaC22](https://github.com/JonaC22)|2|
 |1=|[mlaythe](https://github.com/mlaythe)|2|
 |1=|[milesdo83](https://github.com/milesdo83)|2|
 |1=|[juancafe4](https://github.com/juancafe4)|2|
@@ -22,7 +23,6 @@ The top 10 committers this month are shown here.
 |1=|[psychorobotninja](https://github.com/psychorobotninja)|2|
 |1=|[anavaleije](https://github.com/anavaleije)|2|
 |1=|[thetoms](https://github.com/thetoms)|2|
-|1=|[vpagliari](https://github.com/vpagliari)|2|
 
 #FAQ
 
