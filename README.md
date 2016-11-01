@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[GabrielBernard](https://github.com/GabrielBernard)|32|
-|2=|[pbriones](https://github.com/pbriones)|31|
-|2=|[bbohac](https://github.com/bbohac)|31|
-|2=|[TotKindGott](https://github.com/TotKindGott)|31|
-|2=|[momoneko](https://github.com/momoneko)|31|
-|2=|[hansonryne](https://github.com/hansonryne)|31|
-|2=|[colinular](https://github.com/colinular)|31|
-|2=|[TheRealVira](https://github.com/TheRealVira)|31|
-|2=|[srbaxter](https://github.com/srbaxter)|31|
-|2=|[durandj](https://github.com/durandj)|31|
+|1=|[bladesbravo](https://github.com/bladesbravo)|2|
+|1=|[rayjee](https://github.com/rayjee)|2|
+|1=|[mlaythe](https://github.com/mlaythe)|2|
+|1=|[milesdo83](https://github.com/milesdo83)|2|
+|1=|[juancafe4](https://github.com/juancafe4)|2|
+|1=|[lukem512](https://github.com/lukem512)|2|
+|1=|[psychorobotninja](https://github.com/psychorobotninja)|2|
+|1=|[anavaleije](https://github.com/anavaleije)|2|
+|1=|[thetoms](https://github.com/thetoms)|2|
+|1=|[vpagliari](https://github.com/vpagliari)|2|
 
 #FAQ
 
