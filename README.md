@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[bladesbravo](https://github.com/bladesbravo)|2|
+|1=|[anavaleije](https://github.com/anavaleije)|2|
 |1=|[rayjee](https://github.com/rayjee)|2|
+|1=|[adamyala](https://github.com/adamyala)|2|
+|1=|[joelwahlund81](https://github.com/joelwahlund81)|2|
+|1=|[mauriciolima](https://github.com/mauriciolima)|2|
+|1=|[tomas-sakal](https://github.com/tomas-sakal)|2|
+|1=|[drnanjo](https://github.com/drnanjo)|2|
+|1=|[daniula](https://github.com/daniula)|2|
 |1=|[JonaC22](https://github.com/JonaC22)|2|
 |1=|[mlaythe](https://github.com/mlaythe)|2|
-|1=|[milesdo83](https://github.com/milesdo83)|2|
-|1=|[juancafe4](https://github.com/juancafe4)|2|
-|1=|[lukem512](https://github.com/lukem512)|2|
-|1=|[psychorobotninja](https://github.com/psychorobotninja)|2|
-|1=|[anavaleije](https://github.com/anavaleije)|2|
-|1=|[thetoms](https://github.com/thetoms)|2|
 
 #FAQ
 
