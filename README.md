@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[lukem512](https://github.com/lukem512)|4|
-|2=|[Lizander](https://github.com/Lizander)|3|
+|2=|[bdrumheller](https://github.com/bdrumheller)|3|
+|2=|[psychorobotninja](https://github.com/psychorobotninja)|3|
 |2=|[ecamacho1234](https://github.com/ecamacho1234)|3|
 |2=|[dav1do](https://github.com/dav1do)|3|
 |2=|[RyanT123](https://github.com/RyanT123)|3|
 |2=|[jamesbev](https://github.com/jamesbev)|3|
 |2=|[akell47](https://github.com/akell47)|3|
-|2=|[bdrumheller](https://github.com/bdrumheller)|3|
-|2=|[psychorobotninja](https://github.com/psychorobotninja)|3|
-|2=|[tsimonq2](https://github.com/tsimonq2)|3|
+|2=|[mlaythe](https://github.com/mlaythe)|3|
+|2=|[Lizander](https://github.com/Lizander)|3|
 
 #FAQ
 
