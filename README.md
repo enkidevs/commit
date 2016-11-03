@@ -20,9 +20,9 @@ The top 10 committers this month are shown here.
 |1=|[tsimonq2](https://github.com/tsimonq2)|4|
 |1=|[jbonigomes](https://github.com/jbonigomes)|4|
 |1=|[mpes](https://github.com/mpes)|4|
-|8=|[tripl3dogdare](https://github.com/tripl3dogdare)|3|
-|8=|[Blitzphantom](https://github.com/Blitzphantom)|3|
-|8=|[igorshubovych](https://github.com/igorshubovych)|3|
+|8=|[patrickk93](https://github.com/patrickk93)|3|
+|8=|[Alanbato](https://github.com/Alanbato)|3|
+|8=|[amaksoft](https://github.com/amaksoft)|3|
 
 #FAQ
 
