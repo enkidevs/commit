@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[jamesbev](https://github.com/jamesbev)|3|
-|1=|[mpes](https://github.com/mpes)|3|
-|1=|[drc14](https://github.com/drc14)|3|
-|1=|[ghstridr](https://github.com/ghstridr)|3|
-|1=|[rayjee](https://github.com/rayjee)|3|
-|1=|[mlaythe](https://github.com/mlaythe)|3|
-|1=|[psychorobotninja](https://github.com/psychorobotninja)|3|
-|1=|[ecamacho1234](https://github.com/ecamacho1234)|3|
-|1=|[dav1do](https://github.com/dav1do)|3|
-|1=|[RyanT123](https://github.com/RyanT123)|3|
+|1=|[lukem512](https://github.com/lukem512)|4|
+|1=|[Tatzer](https://github.com/Tatzer)|4|
+|1=|[Klemele](https://github.com/Klemele)|4|
+|1=|[Lizander](https://github.com/Lizander)|4|
+|1=|[tsimonq2](https://github.com/tsimonq2)|4|
+|1=|[jbonigomes](https://github.com/jbonigomes)|4|
+|1=|[mpes](https://github.com/mpes)|4|
+|8=|[Blitzphantom](https://github.com/Blitzphantom)|3|
+|8=|[igorshubovych](https://github.com/igorshubovych)|3|
+|8=|[Vallle](https://github.com/Vallle)|3|
 
 #FAQ
 
