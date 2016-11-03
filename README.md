@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[lukem512](https://github.com/lukem512)|4|
+|1=|[RyanT123](https://github.com/RyanT123)|4|
+|1=|[bdrumheller](https://github.com/bdrumheller)|4|
 |1=|[Tatzer](https://github.com/Tatzer)|4|
 |1=|[Klemele](https://github.com/Klemele)|4|
 |1=|[Lizander](https://github.com/Lizander)|4|
 |1=|[tsimonq2](https://github.com/tsimonq2)|4|
 |1=|[jbonigomes](https://github.com/jbonigomes)|4|
 |1=|[mpes](https://github.com/mpes)|4|
-|8=|[patrickk93](https://github.com/patrickk93)|3|
-|8=|[Alanbato](https://github.com/Alanbato)|3|
-|8=|[amaksoft](https://github.com/amaksoft)|3|
+|9=|[stain88](https://github.com/stain88)|3|
+|9=|[GrayOckham](https://github.com/GrayOckham)|3|
 
 #FAQ
 
