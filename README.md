@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[RyanT123](https://github.com/RyanT123)|4|
-|1=|[bdrumheller](https://github.com/bdrumheller)|4|
-|1=|[Tatzer](https://github.com/Tatzer)|4|
-|1=|[Klemele](https://github.com/Klemele)|4|
-|1=|[Lizander](https://github.com/Lizander)|4|
-|1=|[tsimonq2](https://github.com/tsimonq2)|4|
-|1=|[jbonigomes](https://github.com/jbonigomes)|4|
-|1=|[mpes](https://github.com/mpes)|4|
-|9=|[stain88](https://github.com/stain88)|3|
-|9=|[GrayOckham](https://github.com/GrayOckham)|3|
+|1=|[lukem512](https://github.com/lukem512)|5|
+|1=|[mfrazie2](https://github.com/mfrazie2)|5|
+|1=|[bdrumheller](https://github.com/bdrumheller)|5|
+|1=|[dav1do](https://github.com/dav1do)|5|
+|1=|[jbonigomes](https://github.com/jbonigomes)|5|
+|1=|[mpes](https://github.com/mpes)|5|
+|1=|[juancafe4](https://github.com/juancafe4)|5|
+|1=|[rayjee](https://github.com/rayjee)|5|
+|9=|[alfredoUcar](https://github.com/alfredoUcar)|4|
+|9=|[MisterFab1an](https://github.com/MisterFab1an)|4|
 
 #FAQ
 
