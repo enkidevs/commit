@@ -1,0 +1,5 @@
+`vh` and `vw`, `vmin` and `vmax`
+`currentColor` improves code reusability 
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Highlight input forms using `:focus` pseudo-class
+Multiple borders with pseudo elements
