@@ -1,0 +1,5 @@
+Notifications API
+Vibration API
+Blobs
+Window.sessionStorage
+ProgressEvent
