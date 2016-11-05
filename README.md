@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
+|1=|[dav1do](https://github.com/dav1do)|6|
+|1=|[hellonearthis](https://github.com/hellonearthis)|6|
+|1=|[mfrazie2](https://github.com/mfrazie2)|6|
+|1=|[JonaC22](https://github.com/JonaC22)|6|
 |1=|[drc14](https://github.com/drc14)|6|
 |1=|[jbonigomes](https://github.com/jbonigomes)|6|
 |1=|[Klemele](https://github.com/Klemele)|6|
 |1=|[RyanT123](https://github.com/RyanT123)|6|
-|5=|[ibnumalik](https://github.com/ibnumalik)|5|
-|5=|[SympleKaos](https://github.com/SympleKaos)|5|
-|5=|[mlaythe](https://github.com/mlaythe)|5|
-|5=|[Rainsho](https://github.com/Rainsho)|5|
-|5=|[JonaC22](https://github.com/JonaC22)|5|
-|5=|[dav1do](https://github.com/dav1do)|5|
+|9=|[tohahn](https://github.com/tohahn)|5|
+|9=|[0dyssey](https://github.com/0dyssey)|5|
 
 #FAQ
 
