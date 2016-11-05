@@ -17,12 +17,12 @@ The top 10 committers this month are shown here.
 |1=|[jbonigomes](https://github.com/jbonigomes)|6|
 |1=|[Klemele](https://github.com/Klemele)|6|
 |1=|[RyanT123](https://github.com/RyanT123)|6|
-|5=|[busnaida](https://github.com/busnaida)|5|
-|5=|[MikeOHalloran](https://github.com/MikeOHalloran)|5|
-|5=|[kubik](https://github.com/kubik)|5|
-|5=|[barteklenart](https://github.com/barteklenart)|5|
-|5=|[cezary-butler](https://github.com/cezary-butler)|5|
-|5=|[lDragl](https://github.com/lDragl)|5|
+|5=|[ibnumalik](https://github.com/ibnumalik)|5|
+|5=|[SympleKaos](https://github.com/SympleKaos)|5|
+|5=|[mlaythe](https://github.com/mlaythe)|5|
+|5=|[Rainsho](https://github.com/Rainsho)|5|
+|5=|[JonaC22](https://github.com/JonaC22)|5|
+|5=|[dav1do](https://github.com/dav1do)|5|
 
 #FAQ
 
