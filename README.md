@@ -18,7 +18,7 @@ The top 10 committers this month are shown here.
 |1=|[rayjee](https://github.com/rayjee)|7|
 |1=|[bdrumheller](https://github.com/bdrumheller)|7|
 |1=|[jbonigomes](https://github.com/jbonigomes)|7|
-|6=|[riskawarrior](https://github.com/riskawarrior)|6|
+|6=|[Vallle](https://github.com/Vallle)|6|
 |6=|[backend-baron](https://github.com/backend-baron)|6|
 |6=|[p-conrad](https://github.com/p-conrad)|6|
 |6=|[edm00se](https://github.com/edm00se)|6|
