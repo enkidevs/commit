@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
+|1=|[Klemele](https://github.com/Klemele)|7|
+|1=|[mlaythe](https://github.com/mlaythe)|7|
+|1=|[RyanT123](https://github.com/RyanT123)|7|
 |1=|[hellonearthis](https://github.com/hellonearthis)|7|
 |1=|[Lizander](https://github.com/Lizander)|7|
 |1=|[rayjee](https://github.com/rayjee)|7|
 |1=|[bdrumheller](https://github.com/bdrumheller)|7|
 |1=|[jbonigomes](https://github.com/jbonigomes)|7|
-|6=|[momoneko](https://github.com/momoneko)|6|
-|6=|[ahaasler](https://github.com/ahaasler)|6|
-|6=|[backend-baron](https://github.com/backend-baron)|6|
-|6=|[p-conrad](https://github.com/p-conrad)|6|
-|6=|[edm00se](https://github.com/edm00se)|6|
+|9=|[fullammo](https://github.com/fullammo)|6|
+|9=|[Gruci](https://github.com/Gruci)|6|
 
 #FAQ
 
