@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
+|1=|[Lizander](https://github.com/Lizander)|8|
+|1=|[mfrazie2](https://github.com/mfrazie2)|8|
+|1=|[mlaythe](https://github.com/mlaythe)|8|
 |1=|[bdrumheller](https://github.com/bdrumheller)|8|
 |1=|[tsimonq2](https://github.com/tsimonq2)|8|
 |1=|[jbonigomes](https://github.com/jbonigomes)|8|
-|4=|[viktor90](https://github.com/viktor90)|7|
-|4=|[ahmedengu](https://github.com/ahmedengu)|7|
-|4=|[cezary-butler](https://github.com/cezary-butler)|7|
-|4=|[MikeOHalloran](https://github.com/MikeOHalloran)|7|
-|4=|[Gruci](https://github.com/Gruci)|7|
-|4=|[Witriol](https://github.com/Witriol)|7|
-|4=|[Octanic](https://github.com/Octanic)|7|
+|7=|[jlouiss](https://github.com/jlouiss)|7|
+|7=|[SkipXtian](https://github.com/SkipXtian)|7|
+|7=|[prasadph](https://github.com/prasadph)|7|
+|7=|[evanmhm](https://github.com/evanmhm)|7|
 
 #FAQ
 
