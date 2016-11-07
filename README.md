@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[Klemele](https://github.com/Klemele)|7|
-|1=|[mlaythe](https://github.com/mlaythe)|7|
-|1=|[RyanT123](https://github.com/RyanT123)|7|
-|1=|[hellonearthis](https://github.com/hellonearthis)|7|
-|1=|[Lizander](https://github.com/Lizander)|7|
-|1=|[rayjee](https://github.com/rayjee)|7|
-|1=|[bdrumheller](https://github.com/bdrumheller)|7|
-|1=|[jbonigomes](https://github.com/jbonigomes)|7|
-|9=|[fullammo](https://github.com/fullammo)|6|
-|9=|[Gruci](https://github.com/Gruci)|6|
+|1=|[bdrumheller](https://github.com/bdrumheller)|8|
+|1=|[tsimonq2](https://github.com/tsimonq2)|8|
+|1=|[jbonigomes](https://github.com/jbonigomes)|8|
+|4=|[luki_s](https://github.com/luki_s)|7|
+|4=|[ahmedengu](https://github.com/ahmedengu)|7|
+|4=|[rayjee](https://github.com/rayjee)|7|
+|4=|[cezary-butler](https://github.com/cezary-butler)|7|
+|4=|[MikeOHalloran](https://github.com/MikeOHalloran)|7|
+|4=|[hellonearthis](https://github.com/hellonearthis)|7|
+|4=|[Gruci](https://github.com/Gruci)|7|
 
 #FAQ
 
