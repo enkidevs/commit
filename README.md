@@ -16,12 +16,12 @@ The top 10 committers this month are shown here.
 |1=|[bdrumheller](https://github.com/bdrumheller)|8|
 |1=|[tsimonq2](https://github.com/tsimonq2)|8|
 |1=|[jbonigomes](https://github.com/jbonigomes)|8|
-|4=|[luki_s](https://github.com/luki_s)|7|
+|4=|[JonaC22](https://github.com/JonaC22)|7|
 |4=|[ahmedengu](https://github.com/ahmedengu)|7|
-|4=|[rayjee](https://github.com/rayjee)|7|
+|4=|[Lizander](https://github.com/Lizander)|7|
 |4=|[cezary-butler](https://github.com/cezary-butler)|7|
-|4=|[MikeOHalloran](https://github.com/MikeOHalloran)|7|
 |4=|[hellonearthis](https://github.com/hellonearthis)|7|
+|4=|[MikeOHalloran](https://github.com/MikeOHalloran)|7|
 |4=|[Gruci](https://github.com/Gruci)|7|
 
 #FAQ
