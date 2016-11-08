@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[jbonigomes](https://github.com/jbonigomes)|9|
-|2=|[fullammo](https://github.com/fullammo)|8|
-|2=|[tohahn](https://github.com/tohahn)|8|
-|2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|8|
-|2=|[dav1do](https://github.com/dav1do)|8|
-|2=|[chefsim](https://github.com/chefsim)|8|
-|2=|[MikeOHalloran](https://github.com/MikeOHalloran)|8|
-|2=|[kenwalger](https://github.com/kenwalger)|8|
-|2=|[odys1528](https://github.com/odys1528)|8|
-|2=|[ana-esova](https://github.com/ana-esova)|8|
+|1=|[mlaythe](https://github.com/mlaythe)|9|
+|1=|[jbonigomes](https://github.com/jbonigomes)|9|
+|3=|[marco-zietzling](https://github.com/marco-zietzling)|8|
+|3=|[crojohnson](https://github.com/crojohnson)|8|
+|3=|[Jilano](https://github.com/Jilano)|8|
+|3=|[alexandrewavelet](https://github.com/alexandrewavelet)|8|
+|3=|[mjvdende](https://github.com/mjvdende)|8|
+|3=|[eberta](https://github.com/eberta)|8|
+|3=|[exoduz](https://github.com/exoduz)|8|
+|3=|[deanlyoung](https://github.com/deanlyoung)|8|
 
 #FAQ
 
