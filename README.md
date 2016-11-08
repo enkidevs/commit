@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[Lizander](https://github.com/Lizander)|8|
-|1=|[mfrazie2](https://github.com/mfrazie2)|8|
-|1=|[mlaythe](https://github.com/mlaythe)|8|
-|1=|[bdrumheller](https://github.com/bdrumheller)|8|
-|1=|[tsimonq2](https://github.com/tsimonq2)|8|
-|1=|[jbonigomes](https://github.com/jbonigomes)|8|
-|7=|[jlouiss](https://github.com/jlouiss)|7|
-|7=|[SkipXtian](https://github.com/SkipXtian)|7|
-|7=|[prasadph](https://github.com/prasadph)|7|
-|7=|[evanmhm](https://github.com/evanmhm)|7|
+|1|[jbonigomes](https://github.com/jbonigomes)|9|
+|2=|[iMarv](https://github.com/iMarv)|8|
+|2=|[Dlaosb](https://github.com/Dlaosb)|8|
+|2=|[mfrazie2](https://github.com/mfrazie2)|8|
+|2=|[rayjee](https://github.com/rayjee)|8|
+|2=|[tohahn](https://github.com/tohahn)|8|
+|2=|[mlaythe](https://github.com/mlaythe)|8|
+|2=|[psychorobotninja](https://github.com/psychorobotninja)|8|
+|2=|[Tatzer](https://github.com/Tatzer)|8|
+|2=|[RyanT123](https://github.com/RyanT123)|8|
 
 #FAQ
 
