@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[jbonigomes](https://github.com/jbonigomes)|9|
-|2=|[iMarv](https://github.com/iMarv)|8|
-|2=|[Dlaosb](https://github.com/Dlaosb)|8|
-|2=|[mfrazie2](https://github.com/mfrazie2)|8|
-|2=|[rayjee](https://github.com/rayjee)|8|
+|2=|[fullammo](https://github.com/fullammo)|8|
 |2=|[tohahn](https://github.com/tohahn)|8|
-|2=|[mlaythe](https://github.com/mlaythe)|8|
-|2=|[psychorobotninja](https://github.com/psychorobotninja)|8|
-|2=|[Tatzer](https://github.com/Tatzer)|8|
-|2=|[RyanT123](https://github.com/RyanT123)|8|
+|2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|8|
+|2=|[dav1do](https://github.com/dav1do)|8|
+|2=|[chefsim](https://github.com/chefsim)|8|
+|2=|[MikeOHalloran](https://github.com/MikeOHalloran)|8|
+|2=|[kenwalger](https://github.com/kenwalger)|8|
+|2=|[odys1528](https://github.com/odys1528)|8|
+|2=|[ana-esova](https://github.com/ana-esova)|8|
 
 #FAQ
 
