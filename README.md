@@ -16,13 +16,13 @@ The top 10 committers this month are shown here.
 |1=|[rayjee](https://github.com/rayjee)|10|
 |1=|[Tatzer](https://github.com/Tatzer)|10|
 |1=|[jbonigomes](https://github.com/jbonigomes)|10|
-|4=|[momoneko](https://github.com/momoneko)|9|
-|4=|[colinular](https://github.com/colinular)|9|
-|4=|[WillleePang](https://github.com/WillleePang)|9|
-|4=|[webberpuma](https://github.com/webberpuma)|9|
+|4=|[gabriele92](https://github.com/gabriele92)|9|
+|4=|[Telkaswildride](https://github.com/Telkaswildride)|9|
+|4=|[tohahn](https://github.com/tohahn)|9|
 |4=|[mlaythe](https://github.com/mlaythe)|9|
-|4=|[Rainsho](https://github.com/Rainsho)|9|
-|4=|[liufeng5460](https://github.com/liufeng5460)|9|
+|4=|[psychorobotninja](https://github.com/psychorobotninja)|9|
+|4=|[bdrumheller](https://github.com/bdrumheller)|9|
+|4=|[Akhanyatin](https://github.com/Akhanyatin)|9|
 
 #FAQ
 
