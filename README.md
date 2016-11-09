@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[mlaythe](https://github.com/mlaythe)|9|
-|1=|[jbonigomes](https://github.com/jbonigomes)|9|
-|3=|[marco-zietzling](https://github.com/marco-zietzling)|8|
-|3=|[crojohnson](https://github.com/crojohnson)|8|
-|3=|[Jilano](https://github.com/Jilano)|8|
-|3=|[alexandrewavelet](https://github.com/alexandrewavelet)|8|
-|3=|[mjvdende](https://github.com/mjvdende)|8|
-|3=|[eberta](https://github.com/eberta)|8|
-|3=|[exoduz](https://github.com/exoduz)|8|
-|3=|[deanlyoung](https://github.com/deanlyoung)|8|
+|1=|[Tatzer](https://github.com/Tatzer)|10|
+|1=|[jbonigomes](https://github.com/jbonigomes)|10|
+|1=|[rayjee](https://github.com/rayjee)|10|
+|4=|[earter](https://github.com/earter)|9|
+|4=|[tohahn](https://github.com/tohahn)|9|
+|4=|[Akhanyatin](https://github.com/Akhanyatin)|9|
+|4=|[ws-qcnssp](https://github.com/ws-qcnssp)|9|
+|4=|[toa697](https://github.com/toa697)|9|
+|4=|[Trion129](https://github.com/Trion129)|9|
+|4=|[kenwalger](https://github.com/kenwalger)|9|
 
 #FAQ
 
