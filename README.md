@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[hellonearthis](https://github.com/hellonearthis)|10|
-|1=|[rayjee](https://github.com/rayjee)|10|
-|1=|[Tatzer](https://github.com/Tatzer)|10|
-|1=|[jbonigomes](https://github.com/jbonigomes)|10|
-|5=|[gabriele92](https://github.com/gabriele92)|9|
-|5=|[exoduz](https://github.com/exoduz)|9|
-|5=|[cezary-butler](https://github.com/cezary-butler)|9|
-|5=|[rtucek](https://github.com/rtucek)|9|
-|5=|[jugisan](https://github.com/jugisan)|9|
-|5=|[Paulpander](https://github.com/Paulpander)|9|
+|1|[jbonigomes](https://github.com/jbonigomes)|11|
+|2=|[psychorobotninja](https://github.com/psychorobotninja)|10|
+|2=|[crojohnson](https://github.com/crojohnson)|10|
+|2=|[LandKingdom](https://github.com/LandKingdom)|10|
+|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|10|
+|2=|[Tatzer](https://github.com/Tatzer)|10|
+|2=|[ptreitler](https://github.com/ptreitler)|10|
+|2=|[rayjee](https://github.com/rayjee)|10|
+|2=|[hellonearthis](https://github.com/hellonearthis)|10|
+|2=|[mlaythe](https://github.com/mlaythe)|10|
 
 #FAQ
 
