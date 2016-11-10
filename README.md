@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[jbonigomes](https://github.com/jbonigomes)|11|
-|2=|[psychorobotninja](https://github.com/psychorobotninja)|10|
+|2=|[YoannMa](https://github.com/YoannMa)|10|
+|2=|[rayjee](https://github.com/rayjee)|10|
 |2=|[crojohnson](https://github.com/crojohnson)|10|
+|2=|[hellonearthis](https://github.com/hellonearthis)|10|
 |2=|[LandKingdom](https://github.com/LandKingdom)|10|
+|2=|[mlaythe](https://github.com/mlaythe)|10|
 |2=|[corpulentcoffee](https://github.com/corpulentcoffee)|10|
 |2=|[Tatzer](https://github.com/Tatzer)|10|
 |2=|[ptreitler](https://github.com/ptreitler)|10|
-|2=|[rayjee](https://github.com/rayjee)|10|
-|2=|[hellonearthis](https://github.com/hellonearthis)|10|
-|2=|[mlaythe](https://github.com/mlaythe)|10|
 
 #FAQ
 
