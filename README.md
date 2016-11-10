@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[jbonigomes](https://github.com/jbonigomes)|11|
-|2=|[vlad.bezden](https://github.com/vlad.bezden)|10|
-|2=|[exoduz](https://github.com/exoduz)|10|
-|2=|[srbaxter](https://github.com/srbaxter)|10|
-|2=|[crojohnson](https://github.com/crojohnson)|10|
-|2=|[LandKingdom](https://github.com/LandKingdom)|10|
-|2=|[rayjee](https://github.com/rayjee)|10|
-|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|10|
-|2=|[ptreitler](https://github.com/ptreitler)|10|
-|2=|[hellonearthis](https://github.com/hellonearthis)|10|
+|1=|[rayjee](https://github.com/rayjee)|11|
+|1=|[Tatzer](https://github.com/Tatzer)|11|
+|1=|[jbonigomes](https://github.com/jbonigomes)|11|
+|4=|[sandordargo](https://github.com/sandordargo)|10|
+|4=|[sierzput](https://github.com/sierzput)|10|
+|4=|[rodrigrv](https://github.com/rodrigrv)|10|
+|4=|[xeon927](https://github.com/xeon927)|10|
+|4=|[ZwoRmi](https://github.com/ZwoRmi)|10|
+|4=|[Trion129](https://github.com/Trion129)|10|
+|4=|[webberpuma](https://github.com/webberpuma)|10|
 
 #FAQ
 
