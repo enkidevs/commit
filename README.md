@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
+|1=|[psychorobotninja](https://github.com/psychorobotninja)|12|
 |1=|[JonaC22](https://github.com/JonaC22)|12|
 |1=|[jbonigomes](https://github.com/jbonigomes)|12|
-|3=|[lukem512](https://github.com/lukem512)|11|
-|3=|[eberta](https://github.com/eberta)|11|
-|3=|[Vikingair](https://github.com/Vikingair)|11|
-|3=|[Daniel Keys](https://github.com/Daniel Keys)|11|
-|3=|[corpulentcoffee](https://github.com/corpulentcoffee)|11|
-|3=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|11|
-|3=|[toa697](https://github.com/toa697)|11|
-|3=|[jugisan](https://github.com/jugisan)|11|
+|4=|[Canutza](https://github.com/Canutza)|11|
+|4=|[exoduz](https://github.com/exoduz)|11|
+|4=|[Dlaosb](https://github.com/Dlaosb)|11|
+|4=|[hypnoglow](https://github.com/hypnoglow)|11|
+|4=|[Tatzer](https://github.com/Tatzer)|11|
+|4=|[rayjee](https://github.com/rayjee)|11|
+|4=|[kenwalger](https://github.com/kenwalger)|11|
 
 #FAQ
 
