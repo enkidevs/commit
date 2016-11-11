@@ -15,14 +15,14 @@ The top 10 committers this month are shown here.
 |------|------|---------|
 |1=|[JonaC22](https://github.com/JonaC22)|12|
 |1=|[jbonigomes](https://github.com/jbonigomes)|12|
-|3=|[studenton](https://github.com/studenton)|11|
-|3=|[3DEsprit](https://github.com/3DEsprit)|11|
+|3=|[earter](https://github.com/earter)|11|
 |3=|[crojohnson](https://github.com/crojohnson)|11|
-|3=|[WillleePang](https://github.com/WillleePang)|11|
+|3=|[rayjee](https://github.com/rayjee)|11|
 |3=|[eberta](https://github.com/eberta)|11|
-|3=|[zierler-f](https://github.com/zierler-f)|11|
-|3=|[gjcooper](https://github.com/gjcooper)|11|
+|3=|[oriontvv](https://github.com/oriontvv)|11|
 |3=|[Daniel Keys](https://github.com/Daniel Keys)|11|
+|3=|[corpulentcoffee](https://github.com/corpulentcoffee)|11|
+|3=|[mlaythe](https://github.com/mlaythe)|11|
 
 #FAQ
 
