@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[rayjee](https://github.com/rayjee)|11|
-|1=|[Tatzer](https://github.com/Tatzer)|11|
-|1=|[jbonigomes](https://github.com/jbonigomes)|11|
-|4=|[sandordargo](https://github.com/sandordargo)|10|
-|4=|[sierzput](https://github.com/sierzput)|10|
-|4=|[rodrigrv](https://github.com/rodrigrv)|10|
-|4=|[xeon927](https://github.com/xeon927)|10|
-|4=|[ZwoRmi](https://github.com/ZwoRmi)|10|
-|4=|[Trion129](https://github.com/Trion129)|10|
-|4=|[webberpuma](https://github.com/webberpuma)|10|
+|1=|[JonaC22](https://github.com/JonaC22)|12|
+|1=|[jbonigomes](https://github.com/jbonigomes)|12|
+|3=|[studenton](https://github.com/studenton)|11|
+|3=|[3DEsprit](https://github.com/3DEsprit)|11|
+|3=|[crojohnson](https://github.com/crojohnson)|11|
+|3=|[WillleePang](https://github.com/WillleePang)|11|
+|3=|[eberta](https://github.com/eberta)|11|
+|3=|[zierler-f](https://github.com/zierler-f)|11|
+|3=|[gjcooper](https://github.com/gjcooper)|11|
+|3=|[Daniel Keys](https://github.com/Daniel Keys)|11|
 
 #FAQ
 
