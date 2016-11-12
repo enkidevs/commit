@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1=|[psychorobotninja](https://github.com/psychorobotninja)|12|
-|1=|[JonaC22](https://github.com/JonaC22)|12|
-|1=|[jbonigomes](https://github.com/jbonigomes)|12|
-|4=|[Canutza](https://github.com/Canutza)|11|
-|4=|[exoduz](https://github.com/exoduz)|11|
-|4=|[Dlaosb](https://github.com/Dlaosb)|11|
-|4=|[hypnoglow](https://github.com/hypnoglow)|11|
-|4=|[Tatzer](https://github.com/Tatzer)|11|
-|4=|[rayjee](https://github.com/rayjee)|11|
-|4=|[kenwalger](https://github.com/kenwalger)|11|
+|1|[jbonigomes](https://github.com/jbonigomes)|13|
+|2=|[xeon927](https://github.com/xeon927)|12|
+|2=|[cezary-butler](https://github.com/cezary-butler)|12|
+|2=|[bobsmith947](https://github.com/bobsmith947)|12|
+|2=|[ildar-rails](https://github.com/ildar-rails)|12|
+|2=|[oriontvv](https://github.com/oriontvv)|12|
+|2=|[badbart](https://github.com/badbart)|12|
+|2=|[Leon-Ali](https://github.com/Leon-Ali)|12|
+|2=|[ganes1410](https://github.com/ganes1410)|12|
+|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|12|
 
 #FAQ
 
