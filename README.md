@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[jbonigomes](https://github.com/jbonigomes)|13|
-|2=|[YoannMa](https://github.com/YoannMa)|12|
-|2=|[gjcooper](https://github.com/gjcooper)|12|
-|2=|[bobsmith947](https://github.com/bobsmith947)|12|
-|2=|[oriontvv](https://github.com/oriontvv)|12|
-|2=|[JonaC22](https://github.com/JonaC22)|12|
-|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|12|
-|2=|[eberta](https://github.com/eberta)|12|
-|2=|[toa697](https://github.com/toa697)|12|
-|2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|12|
+|2=|[groundhogdad](https://github.com/groundhogdad)|12|
+|2=|[rayjee](https://github.com/rayjee)|12|
+|2=|[ganes1410](https://github.com/ganes1410)|12|
+|2=|[ildar-rails](https://github.com/ildar-rails)|12|
+|2=|[momoneko](https://github.com/momoneko)|12|
+|2=|[Calypsys](https://github.com/Calypsys)|12|
+|2=|[cezary-butler](https://github.com/cezary-butler)|12|
+|2=|[TheRealVira](https://github.com/TheRealVira)|12|
+|2=|[frangiskos](https://github.com/frangiskos)|12|
 
 #FAQ
 
