@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[jbonigomes](https://github.com/jbonigomes)|13|
-|2=|[groundhogdad](https://github.com/groundhogdad)|12|
+|2=|[kubik](https://github.com/kubik)|12|
+|2=|[Dlaosb](https://github.com/Dlaosb)|12|
+|2=|[lorena](https://github.com/lorena)|12|
+|2=|[ledhund](https://github.com/ledhund)|12|
 |2=|[rayjee](https://github.com/rayjee)|12|
-|2=|[ganes1410](https://github.com/ganes1410)|12|
-|2=|[ildar-rails](https://github.com/ildar-rails)|12|
-|2=|[momoneko](https://github.com/momoneko)|12|
-|2=|[Calypsys](https://github.com/Calypsys)|12|
-|2=|[cezary-butler](https://github.com/cezary-butler)|12|
-|2=|[TheRealVira](https://github.com/TheRealVira)|12|
-|2=|[frangiskos](https://github.com/frangiskos)|12|
+|2=|[bobsmith947](https://github.com/bobsmith947)|12|
+|2=|[oriontvv](https://github.com/oriontvv)|12|
+|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|12|
+|2=|[eberta](https://github.com/eberta)|12|
 
 #FAQ
 
