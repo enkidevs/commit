@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[jbonigomes](https://github.com/jbonigomes)|14|
-|2=|[groundhogdad](https://github.com/groundhogdad)|13|
-|2=|[3DEsprit](https://github.com/3DEsprit)|13|
-|2=|[fedzcravero](https://github.com/fedzcravero)|13|
-|2=|[gjcooper](https://github.com/gjcooper)|13|
+|2=|[Sirius207](https://github.com/Sirius207)|13|
+|2=|[mlaythe](https://github.com/mlaythe)|13|
 |2=|[leslieloo](https://github.com/leslieloo)|13|
 |2=|[xeon927](https://github.com/xeon927)|13|
+|2=|[ledhund](https://github.com/ledhund)|13|
+|2=|[fedzcravero](https://github.com/fedzcravero)|13|
 |2=|[Tatzer](https://github.com/Tatzer)|13|
-|2=|[hellonearthis](https://github.com/hellonearthis)|13|
-|2=|[rodrigrv](https://github.com/rodrigrv)|13|
+|2=|[bbohac](https://github.com/bbohac)|13|
+|2=|[TotKindGott](https://github.com/TotKindGott)|13|
 
 #FAQ
 
