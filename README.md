@@ -14,7 +14,7 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[jbonigomes](https://github.com/jbonigomes)|14|
-|2=|[fr33ek](https://github.com/fr33ek)|13|
+|2=|[colinular](https://github.com/colinular)|13|
 |2=|[TotKindGott](https://github.com/TotKindGott)|13|
 |2=|[oriontvv](https://github.com/oriontvv)|13|
 |2=|[Vallle](https://github.com/Vallle)|13|
