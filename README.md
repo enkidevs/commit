@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[jbonigomes](https://github.com/jbonigomes)|13|
-|2=|[kubik](https://github.com/kubik)|12|
-|2=|[Dlaosb](https://github.com/Dlaosb)|12|
-|2=|[lorena](https://github.com/lorena)|12|
-|2=|[ledhund](https://github.com/ledhund)|12|
-|2=|[rayjee](https://github.com/rayjee)|12|
-|2=|[bobsmith947](https://github.com/bobsmith947)|12|
-|2=|[oriontvv](https://github.com/oriontvv)|12|
-|2=|[corpulentcoffee](https://github.com/corpulentcoffee)|12|
-|2=|[eberta](https://github.com/eberta)|12|
+|1|[jbonigomes](https://github.com/jbonigomes)|14|
+|2=|[fr33ek](https://github.com/fr33ek)|13|
+|2=|[TotKindGott](https://github.com/TotKindGott)|13|
+|2=|[oriontvv](https://github.com/oriontvv)|13|
+|2=|[Vallle](https://github.com/Vallle)|13|
+|2=|[kenwalger](https://github.com/kenwalger)|13|
+|2=|[stephannielsen](https://github.com/stephannielsen)|13|
+|2=|[pbriones](https://github.com/pbriones)|13|
+|2=|[Selenthios](https://github.com/Selenthios)|13|
+|2=|[srbaxter](https://github.com/srbaxter)|13|
 
 #FAQ
 
