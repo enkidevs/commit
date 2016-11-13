@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[jbonigomes](https://github.com/jbonigomes)|14|
-|2=|[colinular](https://github.com/colinular)|13|
-|2=|[TotKindGott](https://github.com/TotKindGott)|13|
-|2=|[oriontvv](https://github.com/oriontvv)|13|
-|2=|[Vallle](https://github.com/Vallle)|13|
-|2=|[kenwalger](https://github.com/kenwalger)|13|
-|2=|[stephannielsen](https://github.com/stephannielsen)|13|
-|2=|[pbriones](https://github.com/pbriones)|13|
-|2=|[Selenthios](https://github.com/Selenthios)|13|
-|2=|[srbaxter](https://github.com/srbaxter)|13|
+|2=|[groundhogdad](https://github.com/groundhogdad)|13|
+|2=|[3DEsprit](https://github.com/3DEsprit)|13|
+|2=|[fedzcravero](https://github.com/fedzcravero)|13|
+|2=|[gjcooper](https://github.com/gjcooper)|13|
+|2=|[leslieloo](https://github.com/leslieloo)|13|
+|2=|[xeon927](https://github.com/xeon927)|13|
+|2=|[Tatzer](https://github.com/Tatzer)|13|
+|2=|[hellonearthis](https://github.com/hellonearthis)|13|
+|2=|[rodrigrv](https://github.com/rodrigrv)|13|
 
 #FAQ
 
