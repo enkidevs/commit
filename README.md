@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[jbonigomes](https://github.com/jbonigomes)|14|
-|2=|[Sirius207](https://github.com/Sirius207)|13|
-|2=|[mlaythe](https://github.com/mlaythe)|13|
-|2=|[leslieloo](https://github.com/leslieloo)|13|
-|2=|[xeon927](https://github.com/xeon927)|13|
-|2=|[ledhund](https://github.com/ledhund)|13|
-|2=|[fedzcravero](https://github.com/fedzcravero)|13|
-|2=|[Tatzer](https://github.com/Tatzer)|13|
-|2=|[bbohac](https://github.com/bbohac)|13|
-|2=|[TotKindGott](https://github.com/TotKindGott)|13|
+|1|[jbonigomes](https://github.com/jbonigomes)|15|
+|2=|[WillleePang](https://github.com/WillleePang)|14|
+|2=|[eberta](https://github.com/eberta)|14|
+|2=|[JonaC22](https://github.com/JonaC22)|14|
+|2=|[samfrezza](https://github.com/samfrezza)|14|
+|2=|[hellonearthis](https://github.com/hellonearthis)|14|
+|2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|14|
+|2=|[kSom](https://github.com/kSom)|14|
+|2=|[kenwalger](https://github.com/kenwalger)|14|
+|2=|[exoduz](https://github.com/exoduz)|14|
 
 #FAQ
 
