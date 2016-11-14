@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[jbonigomes](https://github.com/jbonigomes)|15|
-|2=|[WillleePang](https://github.com/WillleePang)|14|
-|2=|[eberta](https://github.com/eberta)|14|
+|2=|[backend-baron](https://github.com/backend-baron)|14|
+|2=|[kcmartin](https://github.com/kcmartin)|14|
+|2=|[odys1528](https://github.com/odys1528)|14|
 |2=|[JonaC22](https://github.com/JonaC22)|14|
-|2=|[samfrezza](https://github.com/samfrezza)|14|
-|2=|[hellonearthis](https://github.com/hellonearthis)|14|
-|2=|[jrmyhrtmn](https://github.com/jrmyhrtmn)|14|
-|2=|[kSom](https://github.com/kSom)|14|
-|2=|[kenwalger](https://github.com/kenwalger)|14|
-|2=|[exoduz](https://github.com/exoduz)|14|
+|2=|[eberta](https://github.com/eberta)|14|
+|2=|[3DEsprit](https://github.com/3DEsprit)|14|
+|2=|[leslieloo](https://github.com/leslieloo)|14|
+|2=|[liufeng5460](https://github.com/liufeng5460)|14|
+|2=|[WillleePang](https://github.com/WillleePang)|14|
 
 #FAQ
 
