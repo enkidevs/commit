@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[jbonigomes](https://github.com/jbonigomes)|15|
-|2=|[Jilano](https://github.com/Jilano)|14|
-|2=|[kunalgupta05](https://github.com/kunalgupta05)|14|
-|2=|[WillleePang](https://github.com/WillleePang)|14|
-|2=|[evanmhm](https://github.com/evanmhm)|14|
-|2=|[Dlaosb](https://github.com/Dlaosb)|14|
-|2=|[pedantic-git](https://github.com/pedantic-git)|14|
-|2=|[webberpuma](https://github.com/webberpuma)|14|
-|2=|[LandKingdom](https://github.com/LandKingdom)|14|
-|2=|[kcmartin](https://github.com/kcmartin)|14|
+|1|[badbart](https://github.com/badbart)|20|
+|2=|[fr33ek](https://github.com/fr33ek)|18|
+|2=|[archligt](https://github.com/archligt)|18|
+|2=|[ledhund](https://github.com/ledhund)|18|
+|5=|[corpulentcoffee](https://github.com/corpulentcoffee)|17|
+|5=|[amaksoft](https://github.com/amaksoft)|17|
+|5=|[hypnoglow](https://github.com/hypnoglow)|17|
+|5=|[stain88](https://github.com/stain88)|17|
+|9=|[EddieVilla](https://github.com/EddieVilla)|16|
+|9=|[Calypsys](https://github.com/Calypsys)|16|
 
 #FAQ
 
