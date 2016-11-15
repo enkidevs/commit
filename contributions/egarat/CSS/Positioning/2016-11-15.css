@@ -1,0 +1,5 @@
+Vertical percentages are relative to container width, not height
+Fixed navigation bar
+Inherit `box-sizing`
+Equal width table cells
+Avoid margin hacks with `flexbox`
