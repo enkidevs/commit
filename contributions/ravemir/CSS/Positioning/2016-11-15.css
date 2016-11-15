@@ -1,0 +1,5 @@
+Vertical percentages are relative to container width, not height
+Vertical centering with `margin-top`
+Use `z-index` to specify the stack order of elements that overlap
+Difference between `display: none` and `visibility: hidden`
+Avoid margin hacks with `flexbox`
