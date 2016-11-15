@@ -14,15 +14,15 @@ The top 10 committers this month are shown here.
 | Rank | User | Commits |
 |------|------|---------|
 |1|[badbart](https://github.com/badbart)|20|
-|2=|[fr33ek](https://github.com/fr33ek)|18|
-|2=|[archligt](https://github.com/archligt)|18|
 |2=|[ledhund](https://github.com/ledhund)|18|
-|5=|[corpulentcoffee](https://github.com/corpulentcoffee)|17|
-|5=|[amaksoft](https://github.com/amaksoft)|17|
+|2=|[archligt](https://github.com/archligt)|18|
+|2=|[fr33ek](https://github.com/fr33ek)|18|
 |5=|[hypnoglow](https://github.com/hypnoglow)|17|
+|5=|[amaksoft](https://github.com/amaksoft)|17|
+|5=|[corpulentcoffee](https://github.com/corpulentcoffee)|17|
 |5=|[stain88](https://github.com/stain88)|17|
-|9=|[EddieVilla](https://github.com/EddieVilla)|16|
-|9=|[Calypsys](https://github.com/Calypsys)|16|
+|9=|[lpgonzalez](https://github.com/lpgonzalez)|16|
+|9=|[Vallle](https://github.com/Vallle)|16|
 
 #FAQ
 
