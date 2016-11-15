@@ -1,0 +1,5 @@
+`currentColor` improves code reusability 
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Disable resizable property of `textarea`
+Use pseudo-elements to style specific parts of an element
+Highlight input forms using `:focus` pseudo-class
