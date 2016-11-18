@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[badbart](https://github.com/badbart)|20|
-|2=|[fr33ek](https://github.com/fr33ek)|18|
-|2=|[ledhund](https://github.com/ledhund)|18|
-|2=|[archligt](https://github.com/archligt)|18|
-|5=|[amaksoft](https://github.com/amaksoft)|17|
-|5=|[EddieVilla](https://github.com/EddieVilla)|17|
-|5=|[jbonigomes](https://github.com/jbonigomes)|17|
-|5=|[corpulentcoffee](https://github.com/corpulentcoffee)|17|
-|5=|[hypnoglow](https://github.com/hypnoglow)|17|
-|5=|[stain88](https://github.com/stain88)|17|
+|1|[durandj](https://github.com/durandj)|24|
+|2|[archligt](https://github.com/archligt)|23|
+|3=|[JonaC22](https://github.com/JonaC22)|22|
+|3=|[badbart](https://github.com/badbart)|22|
+|5=|[jbonigomes](https://github.com/jbonigomes)|21|
+|5=|[vlad.bezden](https://github.com/vlad.bezden)|21|
+|7=|[hypnoglow](https://github.com/hypnoglow)|20|
+|7=|[EddieVilla](https://github.com/EddieVilla)|20|
+|7=|[jvlobo](https://github.com/jvlobo)|20|
+|7=|[ladokp](https://github.com/ladokp)|20|
 
 #FAQ
 
