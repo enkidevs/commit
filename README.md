@@ -32,4 +32,4 @@ Since we are not using your Github credentials, you are committing with the emai
 
 **Okay, I'm using the right email address! But commits are not appearing on my Github streak or profile. Why?**
 
-Due to Github's policies you'll have to 'Star' the repo for your contributions to appear in your streak. Read more here: [Why are my contributions not showing up on my profile? - Github](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/)
+Due to Github's policies you'll have to 'Star' :star: the repo for your contributions to appear in your streak. Read more here: [Why are my contributions not showing up on my profile? - Github](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/)
