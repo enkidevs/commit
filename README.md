@@ -15,14 +15,14 @@ The top 10 committers this month are shown here.
 |------|------|---------|
 |1|[durandj](https://github.com/durandj)|26|
 |2|[archligt](https://github.com/archligt)|23|
-|3=|[badbart](https://github.com/badbart)|22|
 |3=|[JonaC22](https://github.com/JonaC22)|22|
+|3=|[badbart](https://github.com/badbart)|22|
 |5=|[jbonigomes](https://github.com/jbonigomes)|21|
 |5=|[vlad.bezden](https://github.com/vlad.bezden)|21|
-|7=|[ladokp](https://github.com/ladokp)|20|
-|7=|[ledhund](https://github.com/ledhund)|20|
-|7=|[hypnoglow](https://github.com/hypnoglow)|20|
-|7=|[toa697](https://github.com/toa697)|20|
+|5=|[samfrezza](https://github.com/samfrezza)|21|
+|8=|[jvlobo](https://github.com/jvlobo)|20|
+|8=|[hypnoglow](https://github.com/hypnoglow)|20|
+|8=|[ledhund](https://github.com/ledhund)|20|
 
 #FAQ
 
