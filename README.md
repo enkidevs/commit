@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[durandj](https://github.com/durandj)|26|
-|2|[archligt](https://github.com/archligt)|23|
-|3=|[JonaC22](https://github.com/JonaC22)|22|
-|3=|[badbart](https://github.com/badbart)|22|
-|5=|[jbonigomes](https://github.com/jbonigomes)|21|
-|5=|[vlad.bezden](https://github.com/vlad.bezden)|21|
-|5=|[samfrezza](https://github.com/samfrezza)|21|
-|8=|[jvlobo](https://github.com/jvlobo)|20|
-|8=|[hypnoglow](https://github.com/hypnoglow)|20|
-|8=|[ledhund](https://github.com/ledhund)|20|
+|1|[durandj](https://github.com/durandj)|29|
+|2=|[daniula](https://github.com/daniula)|24|
+|2=|[Trion129](https://github.com/Trion129)|24|
+|2=|[badbart](https://github.com/badbart)|24|
+|2=|[vlad.bezden](https://github.com/vlad.bezden)|24|
+|2=|[samfrezza](https://github.com/samfrezza)|24|
+|2=|[jbonigomes](https://github.com/jbonigomes)|24|
+|8=|[Siddhantarath](https://github.com/Siddhantarath)|23|
+|8=|[archligt](https://github.com/archligt)|23|
+|8=|[mrewers](https://github.com/mrewers)|23|
 
 #FAQ
 
