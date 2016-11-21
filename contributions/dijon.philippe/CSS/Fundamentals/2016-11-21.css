@@ -1,0 +1,5 @@
+How to easily check browser compatibility of a feature
+Use `box-sizing` to define an element's `width` and `height` properties 
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+Matching images to a website's color scheme
+Add `line-height` to `body`
