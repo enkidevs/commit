@@ -1,0 +1,5 @@
+Vertical percentages are relative to container width, not height
+Use `z-index` to specify the stack order of elements that overlap
+Controlling cellpadding and cellspacing in CSS
+Inherit `box-sizing`
+Avoid margin hacks with `flexbox`
