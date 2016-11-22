@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[durandj](https://github.com/durandj)|29|
-|2=|[daniula](https://github.com/daniula)|24|
-|2=|[Trion129](https://github.com/Trion129)|24|
-|2=|[badbart](https://github.com/badbart)|24|
-|2=|[vlad.bezden](https://github.com/vlad.bezden)|24|
-|2=|[samfrezza](https://github.com/samfrezza)|24|
-|2=|[jbonigomes](https://github.com/jbonigomes)|24|
-|8=|[Siddhantarath](https://github.com/Siddhantarath)|23|
-|8=|[archligt](https://github.com/archligt)|23|
-|8=|[mrewers](https://github.com/mrewers)|23|
+|1|[durandj](https://github.com/durandj)|47|
+|2|[Trion129](https://github.com/Trion129)|38|
+|3|[Lizander](https://github.com/Lizander)|35|
+|4=|[WillleePang](https://github.com/WillleePang)|34|
+|4=|[badbart](https://github.com/badbart)|34|
+|6|[daniula](https://github.com/daniula)|33|
+|7=|[Blank113](https://github.com/Blank113)|32|
+|7=|[chhsiao90](https://github.com/chhsiao90)|32|
+|7=|[mrewers](https://github.com/mrewers)|32|
+|10=|[AndriyPolukhin](https://github.com/AndriyPolukhin)|31|
 
 #FAQ
 
