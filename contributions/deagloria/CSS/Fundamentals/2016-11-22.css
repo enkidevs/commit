@@ -1,0 +1,5 @@
+Use pseudo-classes to describe a special state of an element 
+Default to a transparent `border-color` before adding a border to on `:hover` state elements
+At-Rules (`@`)
+Use pseudo-elements to style specific parts of an element
+Styling elements using `::before` and `::after`
