@@ -1,0 +1,5 @@
+`uncaughtException` listener in Node.js
+Clustering
+Factories design pattern
+Avoid command injection 
+Node and `sudo` 
