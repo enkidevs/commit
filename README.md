@@ -13,16 +13,16 @@ The top 10 committers this month are shown here.
 
 | Rank | User | Commits |
 |------|------|---------|
-|1|[durandj](https://github.com/durandj)|65|
-|2=|[Lizander](https://github.com/Lizander)|48|
-|2=|[games647](https://github.com/games647)|48|
-|4|[WillleePang](https://github.com/WillleePang)|47|
-|5=|[Trion129](https://github.com/Trion129)|46|
-|5=|[luki_s](https://github.com/luki_s)|46|
-|5=|[AndriyPolukhin](https://github.com/AndriyPolukhin)|46|
-|8|[Checo1983](https://github.com/Checo1983)|45|
-|9|[mrewers](https://github.com/mrewers)|44|
-|10=|[badbart](https://github.com/badbart)|43|
+|1|[durandj](https://github.com/durandj)|70|
+|2|[Lizander](https://github.com/Lizander)|54|
+|3=|[games647](https://github.com/games647)|51|
+|3=|[Trion129](https://github.com/Trion129)|51|
+|5=|[WillleePang](https://github.com/WillleePang)|50|
+|5=|[luki_s](https://github.com/luki_s)|50|
+|5=|[Checo1983](https://github.com/Checo1983)|50|
+|8|[ladokp](https://github.com/ladokp)|47|
+|9=|[chhsiao90](https://github.com/chhsiao90)|46|
+|9=|[AndriyPolukhin](https://github.com/AndriyPolukhin)|46|
 
 #FAQ
 
