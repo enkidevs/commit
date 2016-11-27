@@ -1,0 +1,5 @@
+Use meaningful names
+Common mistake on switch statements
+Ternary operator
+Constant notation
+Always specify type parameter
