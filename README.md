@@ -8,12 +8,6 @@ Download the Enki app:
  - iOS: https://enki.com/ios
  - Android: https://enki.com/android
 
-#Leaderboard
-The top 10 committers this month are shown here.
-
-| Rank | User | Commits |
-|------|------|---------|
-
 #FAQ
 
 **How come my commits are not connected to my Github account?**
