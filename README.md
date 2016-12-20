@@ -7,3 +7,12 @@ This repo previously logged the progress of the Enki community’s personal lear
 If you’d like to try Enki, download the Enki app:
  - iOS: https://enki.com/ios
  - Android: https://enki.com/android
+#Leaderboard
+The top 10 committers this month are shown here.
+
+| Rank | User | Commits |
+|------|------|---------|
+|1=|[jordanfish](https://github.com/jordanfish)|3|
+|1=|[lukem512](https://github.com/lukem512)|3|
+
+#FAQ
